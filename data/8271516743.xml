@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271516743">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114118355</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:03:06</duration>
+  <gamecount>9</gamecount>
+  <startdate>2025-01-29 15:33:36</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>1,155</bets>
+  <wins>235</wins>
+  <chipsin>500</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114118354</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€80</rewarddrawn>
+  <place>3</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236258545">
+  <general>
+   <startdate>2025-01-29 15:33:36</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="" bet="20" name="CourageCall"/>
+    <player win="0" dealer="1" seat="6" chips="500" reg_code="8271516743" bet="0" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Un1verse25" sum="10" type="1" no="1"/>
+   <action player="CourageCall" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SK D2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Un1verse25" type="Pocket">C7 C4</cards>
+   <action player="Un1verse25" sum="10" type="3" no="4"/>
+   <cards player="CourageCall" type="Pocket">C6 S10</cards>
+   <action player="CourageCall" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 HQ CJ</cards>
+   <action player="Un1verse25" sum="0" type="4" no="6"/>
+   <action player="CourageCall" sum="0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+   <action player="Un1verse25" sum="0" type="4" no="8"/>
+   <action player="CourageCall" sum="0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action player="Un1verse25" sum="0" type="4" no="10"/>
+   <action player="CourageCall" sum="0" type="4" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236258615">
+  <general>
+   <startdate>2025-01-29 15:34:12</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="" bet="10" name="CourageCall"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="8271516743" bet="40" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="520" reg_code="" bet="85" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CourageCall" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <action player="Un1verse25" sum="40" type="23" no="3"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 D3</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 HQ SK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+   <action player="Un1verse25" sum="45" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236258676">
+  <general>
+   <startdate>2025-01-29 15:34:41</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="470" reg_code="" bet="0" name="CourageCall"/>
+    <player win="0" dealer="0" seat="6" chips="460" reg_code="8271516743" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="10" chips="570" reg_code="" bet="20" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Un1verse25" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D2 SQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236258690">
+  <general>
+   <startdate>2025-01-29 15:34:47</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="470" reg_code="" bet="40" name="CourageCall"/>
+    <player win="0" dealer="1" seat="6" chips="450" reg_code="8271516743" bet="70" name="PagaYTeCojo1"/>
+    <player win="180" dealer="0" seat="10" chips="580" reg_code="" bet="210" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Un1verse25" sum="10" type="1" no="1"/>
+   <action player="CourageCall" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C5 HA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <action player="Un1verse25" sum="30" type="3" no="4"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ C3 DQ</cards>
+   <action player="Un1verse25" sum="0" type="4" no="6"/>
+   <action player="CourageCall" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="Un1verse25" sum="30" type="3" no="9"/>
+   <action player="CourageCall" sum="0" type="0" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action player="Un1verse25" sum="0" type="4" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action player="Un1verse25" sum="140" type="5" no="13"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236258761">
+  <general>
+   <startdate>2025-01-29 15:35:21</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="430" reg_code="" bet="80" name="CourageCall"/>
+    <player win="160" dealer="0" seat="6" chips="380" reg_code="8271516743" bet="80" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="690" reg_code="" bet="0" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CourageCall" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <action player="Un1verse25" sum="0" type="0" no="3"/>
+   <cards player="CourageCall" type="Pocket">H6 HQ</cards>
+   <action player="CourageCall" sum="40" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 C6</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA H10 S7</cards>
+   <action player="CourageCall" sum="40" type="5" no="6"/>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action player="CourageCall" sum="0" type="4" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="CourageCall" sum="0" type="4" no="10"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236258822">
+  <general>
+   <startdate>2025-01-29 15:35:53</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="350" reg_code="" bet="5" name="CourageCall"/>
+    <player win="75" dealer="0" seat="6" chips="460" reg_code="8271516743" bet="455" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="690" reg_code="" bet="35" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Un1verse25" sum="5" type="15" no="2"/>
+   <action player="CourageCall" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Un1verse25" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S4 C4</cards>
+   <action player="PagaYTeCojo1" sum="455" type="23" no="7"/>
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <action player="Un1verse25" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236258845">
+  <general>
+   <startdate>2025-01-29 15:36:04</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="345" reg_code="" bet="35" name="CourageCall"/>
+    <player win="0" dealer="1" seat="6" chips="500" reg_code="8271516743" bet="5" name="PagaYTeCojo1"/>
+    <player win="75" dealer="0" seat="10" chips="655" reg_code="" bet="650" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Un1verse25" sum="5" type="15" no="1"/>
+   <action player="CourageCall" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Un1verse25" sum="15" type="1" no="4"/>
+   <action player="CourageCall" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">HQ S7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <action player="Un1verse25" sum="650" type="23" no="7"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236258869">
+  <general>
+   <startdate>2025-01-29 15:36:15</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="75" dealer="0" seat="3" chips="310" reg_code="" bet="60" name="CourageCall"/>
+    <player win="0" dealer="0" seat="6" chips="495" reg_code="8271516743" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="695" reg_code="" bet="5" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CourageCall" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Un1verse25" sum="5" type="15" no="3"/>
+   <action player="CourageCall" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Un1verse25" type="Pocket">X X</cards>
+   <action player="Un1verse25" sum="0" type="0" no="6"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="60" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D6 S2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236258894">
+  <general>
+   <startdate>2025-01-29 15:36:24</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="350" reg_code="" bet="5" name="CourageCall"/>
+    <player win="0" dealer="0" seat="6" chips="460" reg_code="8271516743" bet="460" name="PagaYTeCojo1"/>
+    <player win="925" dealer="0" seat="10" chips="690" reg_code="" bet="685" name="Un1verse25"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Un1verse25" sum="5" type="15" no="2"/>
+   <action player="CourageCall" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Un1verse25" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DJ DK</cards>
+   <action player="PagaYTeCojo1" sum="75" type="23" no="7"/>
+   <cards player="Un1verse25" type="Pocket">DQ HA</cards>
+   <action player="Un1verse25" sum="685" type="23" no="8"/>
+   <action player="PagaYTeCojo1" sum="380" type="7" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S3 HQ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+  </round>
+ </game>
+</session>

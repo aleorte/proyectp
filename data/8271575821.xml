@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271575821">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114124402</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:04:22</duration>
+  <gamecount>12</gamecount>
+  <startdate>2025-01-29 16:49:08</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>685</bets>
+  <wins>130</wins>
+  <chipsin>480</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114124401</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>3</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236393867">
+  <general>
+   <startdate>2025-01-29 16:49:08</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="" bet="0" name="Just4EV"/>
+    <player win="40" dealer="0" seat="6" chips="500" reg_code="" bet="40" name="Arkham"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271575821" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Arkham" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="3"/>
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="40" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C9 D3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236393938">
+  <general>
+   <startdate>2025-01-29 16:49:32</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="" bet="20" name="Just4EV"/>
+    <player win="0" dealer="1" seat="6" chips="520" reg_code="" bet="0" name="Arkham"/>
+    <player win="40" dealer="0" seat="10" chips="480" reg_code="8271575821" bet="50" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Just4EV" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D6 SA</cards>
+   <action player="PagaYTeCojo1" sum="50" type="23" no="4"/>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236393989">
+  <general>
+   <startdate>2025-01-29 16:49:45</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="" bet="10" name="Just4EV"/>
+    <player win="20" dealer="0" seat="6" chips="520" reg_code="" bet="20" name="Arkham"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="8271575821" bet="0" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Just4EV" sum="10" type="1" no="1"/>
+   <action player="Arkham" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">S2 D7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236394030">
+  <general>
+   <startdate>2025-01-29 16:49:57</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="50" dealer="1" seat="3" chips="470" reg_code="" bet="40" name="Just4EV"/>
+    <player win="0" dealer="0" seat="6" chips="530" reg_code="" bet="10" name="Arkham"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271575821" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Arkham" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="40" type="23" no="3"/>
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HQ C7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236394074">
+  <general>
+   <startdate>2025-01-29 16:50:11</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="300" dealer="0" seat="3" chips="500" reg_code="" bet="500" name="Just4EV"/>
+    <player win="0" dealer="1" seat="6" chips="520" reg_code="" bet="40" name="Arkham"/>
+    <player win="0" dealer="0" seat="10" chips="480" reg_code="8271575821" bet="130" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Just4EV" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SK CQ</cards>
+   <action player="PagaYTeCojo1" sum="130" type="23" no="4"/>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="500" type="23" no="5"/>
+   <action player="Arkham" sum="0" type="0" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236394192">
+  <general>
+   <startdate>2025-01-29 16:50:47</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="670" reg_code="" bet="10" name="Just4EV"/>
+    <player win="90" dealer="0" seat="6" chips="480" reg_code="" bet="480" name="Arkham"/>
+    <player win="0" dealer="1" seat="10" chips="350" reg_code="8271575821" bet="40" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Just4EV" sum="10" type="1" no="1"/>
+   <action player="Arkham" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DQ D10</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="4"/>
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="480" type="23" no="5"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236394266">
+  <general>
+   <startdate>2025-01-29 16:51:07</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="660" reg_code="" bet="5" name="Just4EV"/>
+    <player win="0" dealer="0" seat="6" chips="530" reg_code="" bet="20" name="Arkham"/>
+    <player win="45" dealer="0" seat="10" chips="310" reg_code="8271575821" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Arkham" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Just4EV" sum="5" type="15" no="3"/>
+   <action player="Arkham" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H9 CK</cards>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="6"/>
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236394302">
+  <general>
+   <startdate>2025-01-29 16:51:17</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="75" dealer="0" seat="3" chips="655" reg_code="" bet="650" name="Just4EV"/>
+    <player win="0" dealer="1" seat="6" chips="510" reg_code="" bet="5" name="Arkham"/>
+    <player win="0" dealer="0" seat="10" chips="335" reg_code="8271575821" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Just4EV" sum="5" type="15" no="2"/>
+   <action player="Arkham" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Just4EV" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D5 D9</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="7"/>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="650" type="23" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236394383">
+  <general>
+   <startdate>2025-01-29 16:51:44</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="75" dealer="0" seat="3" chips="695" reg_code="" bet="35" name="Just4EV"/>
+    <player win="0" dealer="0" seat="6" chips="505" reg_code="" bet="35" name="Arkham"/>
+    <player win="0" dealer="1" seat="10" chips="300" reg_code="8271575821" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Just4EV" sum="5" type="15" no="1"/>
+   <action player="Arkham" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Just4EV" sum="15" type="1" no="4"/>
+   <action player="Arkham" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D2 C7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Just4EV" type="Pocket">H4 D5</cards>
+   <action player="Just4EV" sum="15" type="3" no="7"/>
+   <cards player="Arkham" type="Pocket">S8 H9</cards>
+   <action player="Arkham" sum="0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 S6 D4</cards>
+   <action player="Just4EV" sum="0" type="4" no="9"/>
+   <action player="Arkham" sum="0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="Just4EV" sum="0" type="4" no="11"/>
+   <action player="Arkham" sum="0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+   <action player="Just4EV" sum="0" type="4" no="13"/>
+   <action player="Arkham" sum="0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236394597">
+  <general>
+   <startdate>2025-01-29 16:52:50</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="735" reg_code="" bet="5" name="Just4EV"/>
+    <player win="0" dealer="0" seat="6" chips="470" reg_code="" bet="20" name="Arkham"/>
+    <player win="45" dealer="0" seat="10" chips="295" reg_code="8271575821" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Arkham" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Just4EV" sum="5" type="15" no="3"/>
+   <action player="Arkham" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">HJ C2</cards>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="6"/>
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236394623">
+  <general>
+   <startdate>2025-01-29 16:52:59</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="730" reg_code="" bet="35" name="Just4EV"/>
+    <player win="90" dealer="1" seat="6" chips="450" reg_code="" bet="60" name="Arkham"/>
+    <player win="0" dealer="0" seat="10" chips="320" reg_code="8271575821" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Just4EV" sum="5" type="15" no="2"/>
+   <action player="Arkham" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Just4EV" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="60" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H9 DJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="Just4EV" type="Pocket">X X</cards>
+   <action player="Just4EV" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236394671">
+  <general>
+   <startdate>2025-01-29 16:53:14</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="645" dealer="0" seat="3" chips="695" reg_code="" bet="690" name="Just4EV"/>
+    <player win="0" dealer="0" seat="6" chips="505" reg_code="" bet="45" name="Arkham"/>
+    <player win="0" dealer="1" seat="10" chips="300" reg_code="8271575821" bet="295" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Just4EV" sum="5" type="15" no="1"/>
+   <action player="Arkham" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Just4EV" sum="20" type="1" no="4"/>
+   <action player="Arkham" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C9 CJ</cards>
+   <action player="PagaYTeCojo1" sum="295" type="23" no="6"/>
+   <cards player="Just4EV" type="Pocket">HA SK</cards>
+   <action player="Just4EV" sum="690" type="23" no="7"/>
+   <cards player="Arkham" type="Pocket">X X</cards>
+   <action player="Arkham" sum="0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 H4 C8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271545237">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114121558</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:07:52</duration>
+  <gamecount>25</gamecount>
+  <startdate>2025-01-29 16:14:03</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>4,105</bets>
+  <wins>2,435</wins>
+  <chipsin>480</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114121557</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€50</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€50</win>
+ </general>
+ <game gamecode="11236329749">
+  <general>
+   <startdate>2025-01-29 16:14:03</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="50" dealer="1" seat="3" chips="500" reg_code="" bet="40" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="10" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271545237" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="40" type="23" no="3"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HK D6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236329805">
+  <general>
+   <startdate>2025-01-29 16:14:24</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="530" reg_code="" bet="20" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="490" reg_code="" bet="0" name="Propane1"/>
+    <player win="40" dealer="0" seat="10" chips="480" reg_code="8271545237" bet="40" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="VainImpostor7" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 DA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="4"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236329848">
+  <general>
+   <startdate>2025-01-29 16:14:39</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="510" reg_code="" bet="10" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="490" reg_code="" bet="40" name="Propane1"/>
+    <player win="90" dealer="1" seat="10" chips="500" reg_code="8271545237" bet="60" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="10" type="1" no="1"/>
+   <action player="Propane1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">HA HK</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="4"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 C10 H7</cards>
+   <action player="Propane1" sum="0" type="4" no="6"/>
+   <action player="PagaYTeCojo1" sum="20" type="5" no="7"/>
+   <action player="Propane1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236329935">
+  <general>
+   <startdate>2025-01-29 16:15:04</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="" bet="0" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="450" reg_code="" bet="20" name="Propane1"/>
+    <player win="40" dealer="0" seat="10" chips="550" reg_code="8271545237" bet="550" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="3"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="10" type="3" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DA S3</cards>
+   <action player="PagaYTeCojo1" sum="550" type="23" no="5"/>
+   <action player="Propane1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236330026">
+  <general>
+   <startdate>2025-01-29 16:15:32</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="20" dealer="0" seat="3" chips="500" reg_code="" bet="20" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="430" reg_code="" bet="0" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="570" reg_code="8271545237" bet="10" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="VainImpostor7" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S4 C10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236330064">
+  <general>
+   <startdate>2025-01-29 16:15:44</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="510" reg_code="" bet="60" name="VainImpostor7"/>
+    <player win="120" dealer="0" seat="6" chips="430" reg_code="" bet="120" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="560" reg_code="8271545237" bet="0" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="10" type="1" no="1"/>
+   <action player="Propane1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C2 S8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="60" type="23" no="4"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="40" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 C7 S9</cards>
+   <action player="VainImpostor7" sum="0" type="4" no="6"/>
+   <action player="Propane1" sum="0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="VainImpostor7" sum="0" type="4" no="8"/>
+   <action player="Propane1" sum="60" type="5" no="9"/>
+   <action player="VainImpostor7" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236330200">
+  <general>
+   <startdate>2025-01-29 16:16:29</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="450" reg_code="" bet="5" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="490" reg_code="" bet="35" name="Propane1"/>
+    <player win="75" dealer="0" seat="10" chips="560" reg_code="8271545237" bet="90" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="5" type="15" no="3"/>
+   <action player="Propane1" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="6"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="15" type="3" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D10 CQ</cards>
+   <action player="PagaYTeCojo1" sum="90" type="23" no="8"/>
+   <action player="Propane1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236330256">
+  <general>
+   <startdate>2025-01-29 16:16:46</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="445" reg_code="" bet="35" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="455" reg_code="" bet="5" name="Propane1"/>
+    <player win="75" dealer="0" seat="10" chips="600" reg_code="8271545237" bet="595" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="VainImpostor7" sum="5" type="15" no="2"/>
+   <action player="Propane1" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="VainImpostor7" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D10 S9</cards>
+   <action player="PagaYTeCojo1" sum="595" type="23" no="7"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236330325">
+  <general>
+   <startdate>2025-01-29 16:17:08</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="75" dealer="0" seat="3" chips="410" reg_code="" bet="405" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="450" reg_code="" bet="35" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="640" reg_code="8271545237" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="Propane1" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="VainImpostor7" sum="15" type="1" no="4"/>
+   <action player="Propane1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S9 H6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="405" type="23" no="7"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236330377">
+  <general>
+   <startdate>2025-01-29 16:17:27</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="450" reg_code="" bet="5" name="VainImpostor7"/>
+    <player win="75" dealer="0" seat="6" chips="415" reg_code="" bet="410" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="635" reg_code="8271545237" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="5" type="15" no="3"/>
+   <action player="Propane1" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="6"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="410" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 C3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236330409">
+  <general>
+   <startdate>2025-01-29 16:17:40</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="45" dealer="0" seat="3" chips="445" reg_code="" bet="35" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="455" reg_code="" bet="5" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="600" reg_code="8271545237" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="VainImpostor7" sum="5" type="15" no="2"/>
+   <action player="Propane1" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="VainImpostor7" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236330447">
+  <general>
+   <startdate>2025-01-29 16:17:52</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="470" reg_code="" bet="185" name="VainImpostor7"/>
+    <player win="375" dealer="0" seat="6" chips="450" reg_code="" bet="309" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="580" reg_code="8271545237" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="Propane1" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="VainImpostor7" sum="15" type="1" no="4"/>
+   <action player="Propane1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 S2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="15" type="3" no="7"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S5 D8</cards>
+   <action player="VainImpostor7" sum="56" type="5" no="9"/>
+   <action player="Propane1" sum="150" type="23" no="10"/>
+   <action player="VainImpostor7" sum="94" type="3" no="11"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="VainImpostor7" sum="0" type="4" no="12"/>
+   <action player="Propane1" sum="124" type="5" no="13"/>
+   <action player="VainImpostor7" sum="0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236330576">
+  <general>
+   <startdate>2025-01-29 16:18:37</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="285" reg_code="" bet="5" name="VainImpostor7"/>
+    <player win="95" dealer="0" seat="6" chips="640" reg_code="" bet="635" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="575" reg_code="8271545237" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="5" type="15" no="3"/>
+   <action player="Propane1" sum="20" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="6"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="635" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S4 S5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236330614">
+  <general>
+   <startdate>2025-01-29 16:18:52</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="280" reg_code="" bet="45" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="690" reg_code="" bet="5" name="Propane1"/>
+    <player win="95" dealer="0" seat="10" chips="530" reg_code="8271545237" bet="525" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="VainImpostor7" sum="5" type="15" no="2"/>
+   <action player="Propane1" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="4"/>
+   <action player="VainImpostor7" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CA SA</cards>
+   <action player="PagaYTeCojo1" sum="525" type="23" no="7"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236342678">
+  <general>
+   <startdate>2025-01-29 16:19:06</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="235" reg_code="" bet="25" name="VainImpostor7"/>
+    <player win="55" dealer="0" seat="6" chips="685" reg_code="" bet="45" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="580" reg_code="8271545237" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="Propane1" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="VainImpostor7" sum="20" type="1" no="4"/>
+   <action player="Propane1" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">C4 DQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236342713">
+  <general>
+   <startdate>2025-01-29 16:19:18</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="210" reg_code="" bet="5" name="VainImpostor7"/>
+    <player win="95" dealer="0" seat="6" chips="715" reg_code="" bet="710" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="575" reg_code="8271545237" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="5" type="15" no="3"/>
+   <action player="Propane1" sum="20" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="6"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="710" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C10 S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236342761">
+  <general>
+   <startdate>2025-01-29 16:19:30</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="205" reg_code="" bet="45" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="765" reg_code="" bet="5" name="Propane1"/>
+    <player win="95" dealer="0" seat="10" chips="530" reg_code="8271545237" bet="525" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="VainImpostor7" sum="5" type="15" no="2"/>
+   <action player="Propane1" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="4"/>
+   <action player="VainImpostor7" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 S4</cards>
+   <action player="PagaYTeCojo1" sum="525" type="23" no="7"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236342801">
+  <general>
+   <startdate>2025-01-29 16:19:46</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="160" reg_code="" bet="25" name="VainImpostor7"/>
+    <player win="55" dealer="0" seat="6" chips="760" reg_code="" bet="45" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="580" reg_code="8271545237" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="Propane1" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="VainImpostor7" sum="20" type="1" no="4"/>
+   <action player="Propane1" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">H10 S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236342841">
+  <general>
+   <startdate>2025-01-29 16:19:58</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="135" reg_code="" bet="5" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="790" reg_code="" bet="25" name="Propane1"/>
+    <player win="55" dealer="0" seat="10" chips="575" reg_code="8271545237" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="5" type="15" no="3"/>
+   <action player="Propane1" sum="20" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">HJ H10</cards>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="6"/>
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236342870">
+  <general>
+   <startdate>2025-01-29 16:20:09</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="130" reg_code="" bet="65" name="VainImpostor7"/>
+    <player win="0" dealer="1" seat="6" chips="765" reg_code="" bet="5" name="Propane1"/>
+    <player win="135" dealer="0" seat="10" chips="605" reg_code="8271545237" bet="570" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="VainImpostor7" sum="5" type="15" no="2"/>
+   <action player="Propane1" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="4"/>
+   <action player="VainImpostor7" sum="60" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">X X</cards>
+   <action player="Propane1" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H9 H7</cards>
+   <action player="PagaYTeCojo1" sum="570" type="23" no="7"/>
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236342921">
+  <general>
+   <startdate>2025-01-29 16:20:27</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="135" dealer="0" seat="3" chips="65" reg_code="" bet="65" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="760" reg_code="" bet="65" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="675" reg_code="8271545237" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="Propane1" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="VainImpostor7" sum="30" type="1" no="4"/>
+   <action player="Propane1" sum="60" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Propane1" type="Pocket">C10 S8</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">D2 H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="VainImpostor7" type="Pocket">C4 CA</cards>
+   <action player="VainImpostor7" sum="30" type="7" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ S6 SJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S5</cards>
+  </round>
+ </game>
+ <game gamecode="11236342968">
+  <general>
+   <startdate>2025-01-29 16:20:44</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="135" reg_code="" bet="5" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="695" reg_code="" bet="690" name="Propane1"/>
+    <player win="1,345" dealer="0" seat="10" chips="670" reg_code="8271545237" bet="670" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Propane1" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="5" type="15" no="3"/>
+   <action player="Propane1" sum="30" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">X X</cards>
+   <action player="VainImpostor7" sum="0" type="0" no="6"/>
+   <cards player="Propane1" type="Pocket">HJ S9</cards>
+   <action player="Propane1" sum="690" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HK DJ</cards>
+   <action player="PagaYTeCojo1" sum="605" type="7" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D5 S4</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">DA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+  </round>
+ </game>
+ <game gamecode="11236343031">
+  <general>
+   <startdate>2025-01-29 16:21:04</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="20" dealer="0" seat="3" chips="130" reg_code="" bet="65" name="VainImpostor7"/>
+    <player win="75" dealer="1" seat="6" chips="25" reg_code="" bet="25" name="Propane1"/>
+    <player win="0" dealer="0" seat="10" chips="1,345" reg_code="8271545237" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="VainImpostor7" sum="5" type="15" no="2"/>
+   <action player="Propane1" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="4"/>
+   <action player="VainImpostor7" sum="60" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">D5 D9</cards>
+   <cards player="Propane1" type="Pocket">C5 C8</cards>
+   <action player="Propane1" sum="20" type="7" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C9 D2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 C7 HK</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+  </round>
+ </game>
+ <game gamecode="11236343081">
+  <general>
+   <startdate>2025-01-29 16:21:22</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="155" dealer="0" seat="3" chips="115" reg_code="" bet="115" name="VainImpostor7"/>
+    <player win="0" dealer="0" seat="6" chips="75" reg_code="" bet="75" name="Propane1"/>
+    <player win="0" dealer="1" seat="10" chips="1,310" reg_code="8271545237" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="Propane1" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="VainImpostor7" sum="30" type="1" no="4"/>
+   <action player="Propane1" sum="60" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SJ C8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="VainImpostor7" type="Pocket">C7 C5</cards>
+   <action player="VainImpostor7" sum="80" type="7" no="7"/>
+   <cards player="Propane1" type="Pocket">H8 SK</cards>
+   <action player="Propane1" sum="10" type="7" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DQ C6 C3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+  </round>
+ </game>
+ <game gamecode="11236343134">
+  <general>
+   <startdate>2025-01-29 16:21:42</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="195" reg_code="" bet="190" name="VainImpostor7"/>
+    <player win="390" dealer="0" seat="10" chips="1,305" reg_code="8271545237" bet="195" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="VainImpostor7" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="VainImpostor7" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="VainImpostor7" type="Pocket">H10 C10</cards>
+   <action player="VainImpostor7" sum="190" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SQ C3</cards>
+   <action player="PagaYTeCojo1" sum="130" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S3 S5</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+  </round>
+ </game>
+</session>

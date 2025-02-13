@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271508915">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114117487</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:03:19</duration>
+  <gamecount>9</gamecount>
+  <startdate>2025-01-29 15:21:18</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>570</bets>
+  <wins>50</wins>
+  <chipsin>500</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114117486</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>3</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236240526">
+  <general>
+   <startdate>2025-01-29 15:21:18</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="8271508915" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="10" name="Nanort1"/>
+    <player win="20" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Nanort1" sum="10" type="1" no="1"/>
+   <action player="Bellatrix97" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">SQ S3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236240568">
+  <general>
+   <startdate>2025-01-29 15:21:35</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="8271508915" bet="20" name="PagaYTeCojo1"/>
+    <player win="50" dealer="1" seat="6" chips="490" reg_code="" bet="40" name="Nanort1"/>
+    <player win="0" dealer="0" seat="10" chips="510" reg_code="" bet="10" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bellatrix97" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="40" type="23" no="3"/>
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D6 HQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236240605">
+  <general>
+   <startdate>2025-01-29 15:21:47</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="8271508915" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="520" reg_code="" bet="40" name="Nanort1"/>
+    <player win="90" dealer="1" seat="10" chips="500" reg_code="" bet="64" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Nanort1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H2 D10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK C3 SK</cards>
+   <action player="Nanort1" sum="0" type="4" no="6"/>
+   <action player="Bellatrix97" sum="0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+   <action player="Nanort1" sum="0" type="4" no="8"/>
+   <action player="Bellatrix97" sum="24" type="5" no="9"/>
+   <action player="Nanort1" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236240693">
+  <general>
+   <startdate>2025-01-29 15:22:22</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="50" dealer="1" seat="3" chips="470" reg_code="8271508915" bet="40" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="480" reg_code="" bet="10" name="Nanort1"/>
+    <player win="0" dealer="0" seat="10" chips="550" reg_code="" bet="20" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Nanort1" sum="10" type="1" no="1"/>
+   <action player="Bellatrix97" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CJ C9</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="0" type="0" no="4"/>
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236240722">
+  <general>
+   <startdate>2025-01-29 15:22:35</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="8271508915" bet="20" name="PagaYTeCojo1"/>
+    <player win="50" dealer="1" seat="6" chips="470" reg_code="" bet="40" name="Nanort1"/>
+    <player win="0" dealer="0" seat="10" chips="530" reg_code="" bet="10" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bellatrix97" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="40" type="23" no="3"/>
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H5 S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236240781">
+  <general>
+   <startdate>2025-01-29 15:22:54</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="8271508915" bet="40" name="PagaYTeCojo1"/>
+    <player win="80" dealer="0" seat="6" chips="500" reg_code="" bet="500" name="Nanort1"/>
+    <player win="0" dealer="1" seat="10" chips="520" reg_code="" bet="0" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Nanort1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CQ C7</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="4"/>
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="500" type="23" no="5"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236240823">
+  <general>
+   <startdate>2025-01-29 15:23:13</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="440" reg_code="8271508915" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="540" reg_code="" bet="10" name="Nanort1"/>
+    <player win="20" dealer="0" seat="10" chips="520" reg_code="" bet="20" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Nanort1" sum="10" type="1" no="1"/>
+   <action player="Bellatrix97" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 D2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236240859">
+  <general>
+   <startdate>2025-01-29 15:23:28</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="440" reg_code="8271508915" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="530" reg_code="" bet="5" name="Nanort1"/>
+    <player win="75" dealer="0" seat="10" chips="530" reg_code="" bet="525" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Bellatrix97" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Nanort1" sum="5" type="15" no="3"/>
+   <action player="Bellatrix97" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Nanort1" type="Pocket">X X</cards>
+   <action player="Nanort1" sum="0" type="0" no="6"/>
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="525" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CJ D6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236240897">
+  <general>
+   <startdate>2025-01-29 15:23:43</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="405" reg_code="8271508915" bet="405" name="PagaYTeCojo1"/>
+    <player win="815" dealer="0" seat="6" chips="525" reg_code="" bet="405" name="Nanort1"/>
+    <player win="0" dealer="1" seat="10" chips="570" reg_code="" bet="5" name="Bellatrix97"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Nanort1" sum="5" type="15" no="2"/>
+   <action player="Bellatrix97" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Nanort1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Bellatrix97" type="Pocket">X X</cards>
+   <action player="Bellatrix97" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HQ D10</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="7"/>
+   <cards player="Nanort1" type="Pocket">CJ SK</cards>
+   <action player="Nanort1" sum="90" type="23" no="8"/>
+   <action player="PagaYTeCojo1" sum="60" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C10 CK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="Nanort1" sum="64" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="310" type="23" no="12"/>
+   <action player="Nanort1" sum="246" type="3" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+  </round>
+ </game>
+</session>

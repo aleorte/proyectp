@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271515493">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114118242</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:02:49</duration>
+  <gamecount>4</gamecount>
+  <startdate>2025-01-29 15:31:27</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>815</bets>
+  <wins>210</wins>
+  <chipsin>605</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114118241</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>3</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236258239">
+  <general>
+   <startdate>2025-01-29 15:31:27</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="210" dealer="0" seat="3" chips="500" reg_code="8271515493" bet="210" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="500" reg_code="" bet="0" name="hornetsleepy39"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="" bet="105" name="carbonero1891"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="carbonero1891" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="hornetsleepy39" type="Pocket">H4 X</cards>
+   <action player="hornetsleepy39" sum="0" type="0" no="3"/>
+   <cards player="carbonero1891" type="Pocket">X X</cards>
+   <action player="carbonero1891" sum="60" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S9 D8</cards>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H5 S7</cards>
+   <action player="carbonero1891" sum="45" type="5" no="6"/>
+   <action player="PagaYTeCojo1" sum="45" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="carbonero1891" sum="0" type="4" no="8"/>
+   <action player="PagaYTeCojo1" sum="105" type="5" no="9"/>
+   <action player="carbonero1891" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236258362">
+  <general>
+   <startdate>2025-01-29 15:32:18</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="605" reg_code="8271515493" bet="210" name="PagaYTeCojo1"/>
+    <player win="420" dealer="0" seat="6" chips="500" reg_code="" bet="210" name="hornetsleepy39"/>
+    <player win="0" dealer="1" seat="10" chips="395" reg_code="" bet="0" name="carbonero1891"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="hornetsleepy39" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="carbonero1891" type="Pocket">X X</cards>
+   <action player="carbonero1891" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D9 SA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="4"/>
+   <cards player="hornetsleepy39" type="Pocket">D6 H7</cards>
+   <action player="hornetsleepy39" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S4 HQ</cards>
+   <action player="PagaYTeCojo1" sum="50" type="5" no="6"/>
+   <action player="hornetsleepy39" sum="50" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+   <action player="hornetsleepy39" sum="0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">C8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="hornetsleepy39" sum="120" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="120" type="3" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236258485">
+  <general>
+   <startdate>2025-01-29 15:33:12</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="395" reg_code="8271515493" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="710" reg_code="" bet="10" name="hornetsleepy39"/>
+    <player win="20" dealer="0" seat="10" chips="395" reg_code="" bet="20" name="carbonero1891"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="hornetsleepy39" sum="10" type="1" no="1"/>
+   <action player="carbonero1891" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="carbonero1891" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 D5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="hornetsleepy39" type="Pocket">X X</cards>
+   <action player="hornetsleepy39" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236258514">
+  <general>
+   <startdate>2025-01-29 15:33:24</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="395" reg_code="8271515493" bet="395" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="700" reg_code="" bet="0" name="hornetsleepy39"/>
+    <player win="790" dealer="0" seat="10" chips="405" reg_code="" bet="395" name="carbonero1891"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="carbonero1891" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="hornetsleepy39" type="Pocket">X X</cards>
+   <action player="hornetsleepy39" sum="0" type="0" no="3"/>
+   <cards player="carbonero1891" type="Pocket">H4 H9</cards>
+   <action player="carbonero1891" sum="10" type="3" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S9 SJ</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="5"/>
+   <action player="carbonero1891" sum="40" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H10 S4</cards>
+   <action player="carbonero1891" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="carbonero1891" sum="30" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="carbonero1891" sum="0" type="4" no="10"/>
+   <action player="PagaYTeCojo1" sum="50" type="5" no="11"/>
+   <action player="carbonero1891" sum="50" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+   <action player="carbonero1891" sum="0" type="4" no="13"/>
+   <action player="PagaYTeCojo1" sum="255" type="5" no="14"/>
+   <action player="carbonero1891" sum="255" type="3" no="15"/>
+  </round>
+ </game>
+</session>

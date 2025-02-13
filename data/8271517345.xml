@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271517345">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114118395</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:05:33</duration>
+  <gamecount>21</gamecount>
+  <startdate>2025-01-29 15:34:42</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>1,030</bets>
+  <wins>380</wins>
+  <chipsin>500</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114118394</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€80</rewarddrawn>
+  <place>2</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236258677">
+  <general>
+   <startdate>2025-01-29 15:34:42</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="" bet="10" name="Gabeli"/>
+    <player win="20" dealer="0" seat="6" chips="500" reg_code="" bet="20" name="nikman20"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="8271517345" bet="0" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="10" type="1" no="1"/>
+   <action player="nikman20" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">CQ H9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236258696">
+  <general>
+   <startdate>2025-01-29 15:34:51</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="490" reg_code="" bet="0" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="510" reg_code="" bet="10" name="nikman20"/>
+    <player win="20" dealer="0" seat="10" chips="500" reg_code="8271517345" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C9 H9</cards>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="3"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236258717">
+  <general>
+   <startdate>2025-01-29 15:34:59</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="490" reg_code="" bet="20" name="Gabeli"/>
+    <player win="0" dealer="1" seat="6" chips="500" reg_code="" bet="0" name="nikman20"/>
+    <player win="40" dealer="0" seat="10" chips="510" reg_code="8271517345" bet="50" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Gabeli" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CA H2</cards>
+   <action player="PagaYTeCojo1" sum="50" type="23" no="4"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236258739">
+  <general>
+   <startdate>2025-01-29 15:35:10</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="470" reg_code="" bet="40" name="Gabeli"/>
+    <player win="80" dealer="0" seat="6" chips="500" reg_code="" bet="80" name="nikman20"/>
+    <player win="0" dealer="1" seat="10" chips="530" reg_code="8271517345" bet="0" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="10" type="1" no="1"/>
+   <action player="nikman20" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D8 CJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="10" type="3" no="4"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HJ CQ H5</cards>
+   <action player="Gabeli" sum="0" type="4" no="6"/>
+   <action player="nikman20" sum="20" type="5" no="7"/>
+   <action player="Gabeli" sum="20" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HQ</cards>
+   <action player="Gabeli" sum="0" type="4" no="9"/>
+   <action player="nikman20" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+   <action player="Gabeli" sum="0" type="4" no="11"/>
+   <action player="nikman20" sum="40" type="5" no="12"/>
+   <action player="Gabeli" sum="0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236258810">
+  <general>
+   <startdate>2025-01-29 15:35:48</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="430" reg_code="" bet="0" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="540" reg_code="" bet="10" name="nikman20"/>
+    <player win="20" dealer="0" seat="10" chips="530" reg_code="8271517345" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SJ D10</cards>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="3"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236258828">
+  <general>
+   <startdate>2025-01-29 15:35:56</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="80" dealer="0" seat="3" chips="430" reg_code="" bet="40" name="Gabeli"/>
+    <player win="0" dealer="1" seat="6" chips="530" reg_code="" bet="0" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="540" reg_code="8271517345" bet="40" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Gabeli" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SJ DA</cards>
+   <action player="PagaYTeCojo1" sum="10" type="3" no="4"/>
+   <cards player="Gabeli" type="Pocket">S3 D9</cards>
+   <action player="Gabeli" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 C9 C6</cards>
+   <action player="PagaYTeCojo1" sum="20" type="5" no="6"/>
+   <action player="Gabeli" sum="20" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+   <action player="Gabeli" sum="0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="Gabeli" sum="0" type="4" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236258885">
+  <general>
+   <startdate>2025-01-29 15:36:21</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="470" reg_code="" bet="40" name="Gabeli"/>
+    <player win="80" dealer="0" seat="6" chips="530" reg_code="" bet="40" name="nikman20"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="8271517345" bet="0" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="10" type="1" no="1"/>
+   <action player="nikman20" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H3 C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Gabeli" type="Pocket">DA S2</cards>
+   <action player="Gabeli" sum="10" type="3" no="4"/>
+   <cards player="nikman20" type="Pocket">S4 S9</cards>
+   <action player="nikman20" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 H4 CQ</cards>
+   <action player="Gabeli" sum="0" type="4" no="6"/>
+   <action player="nikman20" sum="20" type="5" no="7"/>
+   <action player="Gabeli" sum="20" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action player="Gabeli" sum="0" type="4" no="9"/>
+   <action player="nikman20" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+   <action player="Gabeli" sum="0" type="4" no="11"/>
+   <action player="nikman20" sum="0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236258935">
+  <general>
+   <startdate>2025-01-29 15:36:46</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="430" reg_code="" bet="5" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="570" reg_code="" bet="20" name="nikman20"/>
+    <player win="45" dealer="0" seat="10" chips="500" reg_code="8271517345" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Gabeli" sum="5" type="15" no="3"/>
+   <action player="nikman20" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CQ C7</cards>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="6"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236258955">
+  <general>
+   <startdate>2025-01-29 15:36:53</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="425" reg_code="" bet="35" name="Gabeli"/>
+    <player win="90" dealer="1" seat="6" chips="550" reg_code="" bet="60" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="525" reg_code="8271517345" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Gabeli" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Gabeli" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="60" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HJ S7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236258978">
+  <general>
+   <startdate>2025-01-29 15:37:04</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="75" dealer="0" seat="3" chips="390" reg_code="" bet="385" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="605" reg_code="" bet="35" name="nikman20"/>
+    <player win="0" dealer="1" seat="10" chips="505" reg_code="8271517345" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Gabeli" sum="15" type="1" no="4"/>
+   <action player="nikman20" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C4 D3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="385" type="23" no="7"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236259006">
+  <general>
+   <startdate>2025-01-29 15:37:16</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="430" reg_code="" bet="5" name="Gabeli"/>
+    <player win="75" dealer="0" seat="6" chips="570" reg_code="" bet="565" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271517345" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Gabeli" sum="5" type="15" no="3"/>
+   <action player="nikman20" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="6"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="565" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H10 HQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236259044">
+  <general>
+   <startdate>2025-01-29 15:37:30</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="425" reg_code="" bet="35" name="Gabeli"/>
+    <player win="0" dealer="1" seat="6" chips="610" reg_code="" bet="5" name="nikman20"/>
+    <player win="75" dealer="0" seat="10" chips="465" reg_code="8271517345" bet="60" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Gabeli" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Gabeli" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C9 S7</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="7"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236259076">
+  <general>
+   <startdate>2025-01-29 15:37:44</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="785" dealer="0" seat="3" chips="390" reg_code="" bet="385" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="605" reg_code="" bet="390" name="nikman20"/>
+    <player win="0" dealer="1" seat="10" chips="505" reg_code="8271517345" bet="5" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Gabeli" sum="15" type="1" no="4"/>
+   <action player="nikman20" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S7 H9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Gabeli" type="Pocket">S4 CA</cards>
+   <action player="Gabeli" sum="385" type="23" no="7"/>
+   <cards player="nikman20" type="Pocket">DK D10</cards>
+   <action player="nikman20" sum="355" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C10 HQ DJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+  </round>
+ </game>
+ <game gamecode="11236259135">
+  <general>
+   <startdate>2025-01-29 15:38:07</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="785" reg_code="" bet="60" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="215" reg_code="" bet="20" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271517345" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Gabeli" sum="5" type="15" no="3"/>
+   <action player="nikman20" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="60" type="23" no="6"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HJ C2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236270120">
+  <general>
+   <startdate>2025-01-29 15:38:18</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="45" dealer="0" seat="3" chips="840" reg_code="" bet="35" name="Gabeli"/>
+    <player win="0" dealer="1" seat="6" chips="195" reg_code="" bet="5" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="465" reg_code="8271517345" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Gabeli" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Gabeli" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C8 D4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236270145">
+  <general>
+   <startdate>2025-01-29 15:38:26</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="865" reg_code="" bet="20" name="Gabeli"/>
+    <player win="0" dealer="0" seat="6" chips="190" reg_code="" bet="35" name="nikman20"/>
+    <player win="90" dealer="1" seat="10" chips="445" reg_code="8271517345" bet="60" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Gabeli" sum="15" type="1" no="4"/>
+   <action player="nikman20" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CA DA</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="6"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="7"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236270172">
+  <general>
+   <startdate>2025-01-29 15:38:37</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="845" reg_code="" bet="5" name="Gabeli"/>
+    <player win="75" dealer="0" seat="6" chips="155" reg_code="" bet="150" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271517345" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Gabeli" sum="5" type="15" no="3"/>
+   <action player="nikman20" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="0" no="6"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="150" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H5 D4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236270202">
+  <general>
+   <startdate>2025-01-29 15:38:47</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="415" dealer="0" seat="3" chips="840" reg_code="" bet="195" name="Gabeli"/>
+    <player win="0" dealer="1" seat="6" chips="195" reg_code="" bet="190" name="nikman20"/>
+    <player win="0" dealer="0" seat="10" chips="465" reg_code="8271517345" bet="25" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Gabeli" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="4"/>
+   <action player="Gabeli" sum="40" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">S10 SK</cards>
+   <action player="nikman20" sum="190" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 D3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="Gabeli" type="Pocket">S6 CJ</cards>
+   <action player="Gabeli" sum="150" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 C6 S3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+  </round>
+ </game>
+ <game gamecode="11236270255">
+  <general>
+   <startdate>2025-01-29 15:39:06</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,060" reg_code="" bet="45" name="Gabeli"/>
+    <player win="90" dealer="1" seat="10" chips="440" reg_code="8271517345" bet="85" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Gabeli" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Gabeli" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S8 D9</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 S2 H10</cards>
+   <action player="Gabeli" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action player="Gabeli" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="40" type="5" no="10"/>
+   <action player="Gabeli" sum="0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236270308">
+  <general>
+   <startdate>2025-01-29 15:39:28</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="1,015" reg_code="" bet="135" name="Gabeli"/>
+    <player win="0" dealer="0" seat="10" chips="485" reg_code="8271517345" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Gabeli" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Gabeli" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Gabeli" type="Pocket">X X</cards>
+   <action player="Gabeli" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C6 D2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 SJ HK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="Gabeli" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="Gabeli" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="Gabeli" sum="90" type="5" no="12"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236270388">
+  <general>
+   <startdate>2025-01-29 15:39:59</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="880" dealer="0" seat="3" chips="1,060" reg_code="" bet="440" name="Gabeli"/>
+    <player win="0" dealer="1" seat="10" chips="440" reg_code="8271517345" bet="435" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Gabeli" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Gabeli" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CK S9</cards>
+   <action player="PagaYTeCojo1" sum="435" type="23" no="5"/>
+   <cards player="Gabeli" type="Pocket">HK H10</cards>
+   <action player="Gabeli" sum="395" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S5 SJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CQ</cards>
+  </round>
+ </game>
+</session>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271523013">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114119108</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:06:50</duration>
+  <gamecount>23</gamecount>
+  <startdate>2025-01-29 15:44:16</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>3,320</bets>
+  <wins>1,635</wins>
+  <chipsin>500</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114119107</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>2</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236279089">
+  <general>
+   <startdate>2025-01-29 15:44:16</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="8271523013" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="10" name="QueenBR"/>
+    <player win="20" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="10" type="1" no="1"/>
+   <action player="nikman20" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">H10 S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236279126">
+  <general>
+   <startdate>2025-01-29 15:44:27</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="20" dealer="0" seat="3" chips="500" reg_code="8271523013" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="490" reg_code="" bet="0" name="QueenBR"/>
+    <player win="0" dealer="0" seat="10" chips="510" reg_code="" bet="10" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S7 CQ</cards>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="3"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236279159">
+  <general>
+   <startdate>2025-01-29 15:44:37</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="510" reg_code="8271523013" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="6" chips="490" reg_code="" bet="20" name="QueenBR"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="" bet="0" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="QueenBR" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H6 D7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236279183">
+  <general>
+   <startdate>2025-01-29 15:44:46</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="8271523013" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="130" name="QueenBR"/>
+    <player win="260" dealer="0" seat="10" chips="500" reg_code="" bet="205" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="10" type="1" no="1"/>
+   <action player="nikman20" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C7 C2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="50" type="23" no="4"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="130" type="23" no="5"/>
+   <action player="QueenBR" sum="80" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 HK D5</cards>
+   <action player="QueenBR" sum="0" type="4" no="7"/>
+   <action player="nikman20" sum="75" type="5" no="8"/>
+   <action player="QueenBR" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236279292">
+  <general>
+   <startdate>2025-01-29 15:45:26</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="90" dealer="0" seat="3" chips="500" reg_code="8271523013" bet="140" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="370" reg_code="" bet="40" name="QueenBR"/>
+    <player win="0" dealer="0" seat="10" chips="630" reg_code="" bet="10" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="40" type="23" no="3"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S8 H10</cards>
+   <action player="PagaYTeCojo1" sum="140" type="23" no="5"/>
+   <action player="QueenBR" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236279341">
+  <general>
+   <startdate>2025-01-29 15:45:44</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="550" reg_code="8271523013" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="330" reg_code="" bet="40" name="QueenBR"/>
+    <player win="90" dealer="1" seat="10" chips="620" reg_code="" bet="60" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="QueenBR" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D10 S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D8 D7</cards>
+   <action player="QueenBR" sum="0" type="4" no="6"/>
+   <action player="nikman20" sum="20" type="5" no="7"/>
+   <action player="QueenBR" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236279403">
+  <general>
+   <startdate>2025-01-29 15:46:05</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="540" reg_code="8271523013" bet="85" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="290" reg_code="" bet="10" name="QueenBR"/>
+    <player win="0" dealer="0" seat="10" chips="670" reg_code="" bet="40" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="10" type="1" no="1"/>
+   <action player="nikman20" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D6 SA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="4"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 SK H9</cards>
+   <action player="nikman20" sum="0" type="4" no="6"/>
+   <action player="PagaYTeCojo1" sum="45" type="5" no="7"/>
+   <action player="nikman20" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236279480">
+  <general>
+   <startdate>2025-01-29 15:46:32</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="45" dealer="0" seat="3" chips="590" reg_code="8271523013" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="280" reg_code="" bet="5" name="QueenBR"/>
+    <player win="0" dealer="0" seat="10" chips="630" reg_code="" bet="20" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="QueenBR" sum="5" type="15" no="3"/>
+   <action player="nikman20" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D4 C5</cards>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="6"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236279501">
+  <general>
+   <startdate>2025-01-29 15:46:41</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="615" reg_code="8271523013" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="275" reg_code="" bet="35" name="QueenBR"/>
+    <player win="90" dealer="1" seat="10" chips="610" reg_code="" bet="60" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="QueenBR" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="QueenBR" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="60" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C6 D7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236279529">
+  <general>
+   <startdate>2025-01-29 15:46:54</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="1,210" dealer="1" seat="3" chips="595" reg_code="8271523013" bet="595" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="240" reg_code="" bet="20" name="QueenBR"/>
+    <player win="0" dealer="0" seat="10" chips="665" reg_code="" bet="665" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="QueenBR" sum="15" type="1" no="4"/>
+   <action player="nikman20" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SJ HJ</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="6"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="7"/>
+   <cards player="nikman20" type="Pocket">CJ S9</cards>
+   <action player="nikman20" sum="30" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S8 C2</cards>
+   <action player="nikman20" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="37" type="5" no="10"/>
+   <action player="nikman20" sum="120" type="23" no="11"/>
+   <action player="PagaYTeCojo1" sum="83" type="3" no="12"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+   <action player="nikman20" sum="480" type="5" no="13"/>
+   <action player="PagaYTeCojo1" sum="410" type="7" no="14"/>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+  </round>
+ </game>
+ <game gamecode="11236289816">
+  <general>
+   <startdate>2025-01-29 15:47:32</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,210" reg_code="8271523013" bet="70" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="220" reg_code="" bet="5" name="QueenBR"/>
+    <player win="145" dealer="0" seat="10" chips="70" reg_code="" bet="65" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="QueenBR" sum="5" type="15" no="3"/>
+   <action player="nikman20" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="6"/>
+   <cards player="nikman20" type="Pocket">SK D9</cards>
+   <action player="nikman20" sum="65" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H8 H9</cards>
+   <action player="PagaYTeCojo1" sum="35" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK D7 H7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H10</cards>
+  </round>
+ </game>
+ <game gamecode="11236289867">
+  <general>
+   <startdate>2025-01-29 15:47:51</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,140" reg_code="8271523013" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="215" reg_code="" bet="145" name="QueenBR"/>
+    <player win="310" dealer="1" seat="10" chips="145" reg_code="" bet="140" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="QueenBR" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="QueenBR" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">DK CA</cards>
+   <action player="nikman20" sum="140" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S9 S2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="QueenBR" type="Pocket">C9 HK</cards>
+   <action player="QueenBR" sum="110" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H8 D2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+  </round>
+ </game>
+ <game gamecode="11236289914">
+  <general>
+   <startdate>2025-01-29 15:48:08</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,120" reg_code="8271523013" bet="5" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="70" reg_code="" bet="65" name="QueenBR"/>
+    <player win="145" dealer="0" seat="10" chips="310" reg_code="" bet="70" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="QueenBR" sum="15" type="1" no="4"/>
+   <action player="nikman20" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S6 D10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="QueenBR" type="Pocket">DA H4</cards>
+   <action player="QueenBR" sum="65" type="23" no="7"/>
+   <cards player="nikman20" type="Pocket">HJ S9</cards>
+   <action player="nikman20" sum="35" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ C9 H6</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+  </round>
+ </game>
+ <game gamecode="11236289983">
+  <general>
+   <startdate>2025-01-29 15:48:29</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,115" reg_code="8271523013" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="385" reg_code="" bet="85" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S2 S9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C8 C6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="nikman20" sum="40" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236290075">
+  <general>
+   <startdate>2025-01-29 15:48:59</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,070" reg_code="8271523013" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="0" seat="10" chips="430" reg_code="" bet="425" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="nikman20" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S5 HJ</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="425" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236290118">
+  <general>
+   <startdate>2025-01-29 15:49:12</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="0" seat="3" chips="1,025" reg_code="8271523013" bet="45" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="475" reg_code="" bet="45" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">D2 S4</cards>
+   <action player="nikman20" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H10 C7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 S7 SK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="nikman20" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="nikman20" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">H5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="nikman20" sum="0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236290175">
+  <general>
+   <startdate>2025-01-29 15:49:32</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="1,070" reg_code="8271523013" bet="1,065" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="430" reg_code="" bet="45" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="nikman20" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H8 SK</cards>
+   <action player="PagaYTeCojo1" sum="1,065" type="23" no="5"/>
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236290198">
+  <general>
+   <startdate>2025-01-29 15:49:40</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,115" reg_code="8271523013" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="385" reg_code="" bet="380" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="380" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 SJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236290219">
+  <general>
+   <startdate>2025-01-29 15:49:47</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,070" reg_code="8271523013" bet="25" name="PagaYTeCojo1"/>
+    <player win="50" dealer="0" seat="10" chips="430" reg_code="" bet="45" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="nikman20" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">H3 D7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236290237">
+  <general>
+   <startdate>2025-01-29 15:49:53</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,045" reg_code="8271523013" bet="85" name="PagaYTeCojo1"/>
+    <player win="170" dealer="1" seat="10" chips="455" reg_code="" bet="245" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D10 C3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 D3 HA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="nikman20" sum="40" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="nikman20" sum="160" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236290349">
+  <general>
+   <startdate>2025-01-29 15:50:24</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="960" reg_code="8271523013" bet="540" name="PagaYTeCojo1"/>
+    <player win="1,080" dealer="0" seat="10" chips="540" reg_code="" bet="535" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="nikman20" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 HA</cards>
+   <action player="PagaYTeCojo1" sum="30" type="3" no="5"/>
+   <cards player="nikman20" type="Pocket">DQ S4</cards>
+   <action player="nikman20" sum="535" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="475" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S6 H9</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+ <game gamecode="11236290415">
+  <general>
+   <startdate>2025-01-29 15:50:45</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="420" reg_code="8271523013" bet="65" name="PagaYTeCojo1"/>
+    <player win="130" dealer="1" seat="10" chips="1,080" reg_code="" bet="1,075" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="nikman20" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="nikman20" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="nikman20" type="Pocket">X X</cards>
+   <action player="nikman20" sum="1,075" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 C4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236290444">
+  <general>
+   <startdate>2025-01-29 15:50:53</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="355" reg_code="8271523013" bet="350" name="PagaYTeCojo1"/>
+    <player win="710" dealer="0" seat="10" chips="1,145" reg_code="" bet="355" name="nikman20"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="nikman20" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="nikman20" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 S9</cards>
+   <action player="PagaYTeCojo1" sum="350" type="23" no="5"/>
+   <cards player="nikman20" type="Pocket">S7 SJ</cards>
+   <action player="nikman20" sum="290" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 HJ CJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+  </round>
+ </game>
+</session>

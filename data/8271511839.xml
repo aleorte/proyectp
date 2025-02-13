@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271511839">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114117801</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:05:17</duration>
+  <gamecount>17</gamecount>
+  <startdate>2025-01-29 15:25:46</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>1,590</bets>
+  <wins>2,455</wins>
+  <chipsin>490</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114117800</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€20</win>
+ </general>
+ <game gamecode="11236247801">
+  <general>
+   <startdate>2025-01-29 15:25:46</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="" bet="0" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="8271511839" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="QueenBR" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S2 H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236247834">
+  <general>
+   <startdate>2025-01-29 15:25:55</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="" bet="40" name="rakkki"/>
+    <player win="90" dealer="1" seat="6" chips="490" reg_code="8271511839" bet="70" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="510" reg_code="" bet="10" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="10" type="1" no="1"/>
+   <action player="rakkki" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S7 S10</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="4"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA S3 H10</cards>
+   <action player="rakkki" sum="0" type="4" no="6"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="7"/>
+   <action player="rakkki" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236247893">
+  <general>
+   <startdate>2025-01-29 15:26:18</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="40" dealer="0" seat="3" chips="460" reg_code="" bet="50" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="540" reg_code="8271511839" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="" bet="0" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="rakkki" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="3"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="50" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C4 D10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236247924">
+  <general>
+   <startdate>2025-01-29 15:26:28</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="480" reg_code="" bet="0" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="520" reg_code="8271511839" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="QueenBR" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 CJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236247957">
+  <general>
+   <startdate>2025-01-29 15:26:40</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="" bet="20" name="rakkki"/>
+    <player win="50" dealer="1" seat="6" chips="510" reg_code="8271511839" bet="40" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="510" reg_code="" bet="10" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="10" type="1" no="1"/>
+   <action player="rakkki" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C6 CA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="4"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236248003">
+  <general>
+   <startdate>2025-01-29 15:26:54</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="460" reg_code="" bet="10" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="540" reg_code="8271511839" bet="20" name="PagaYTeCojo1"/>
+    <player win="50" dealer="1" seat="10" chips="500" reg_code="" bet="40" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="rakkki" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="40" type="23" no="3"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DQ H4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236248051">
+  <general>
+   <startdate>2025-01-29 15:27:08</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="450" reg_code="" bet="0" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="520" reg_code="8271511839" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="10" chips="530" reg_code="" bet="20" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="QueenBR" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D3 H2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236248071">
+  <general>
+   <startdate>2025-01-29 15:27:17</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="100" dealer="0" seat="3" chips="450" reg_code="" bet="450" name="rakkki"/>
+    <player win="0" dealer="1" seat="6" chips="510" reg_code="8271511839" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="540" reg_code="" bet="50" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="10" type="1" no="1"/>
+   <action player="rakkki" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H7 C5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="50" type="23" no="4"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="450" type="23" no="5"/>
+   <action player="QueenBR" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236248127">
+  <general>
+   <startdate>2025-01-29 15:27:36</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="260" dealer="0" seat="3" chips="500" reg_code="" bet="205" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="510" reg_code="8271511839" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="490" reg_code="" bet="120" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="rakkki" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="40" type="23" no="3"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="120" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S7 SJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+   <action player="QueenBR" sum="80" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ S4 SQ</cards>
+   <action player="rakkki" sum="85" type="5" no="7"/>
+   <action player="QueenBR" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236248190">
+  <general>
+   <startdate>2025-01-29 15:27:58</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="640" reg_code="" bet="5" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="490" reg_code="8271511839" bet="35" name="PagaYTeCojo1"/>
+    <player win="75" dealer="0" seat="10" chips="370" reg_code="" bet="72" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="QueenBR" sum="5" type="15" no="2"/>
+   <action player="rakkki" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="QueenBR" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S7 S4</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="7"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK D10 SA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="QueenBR" sum="0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="QueenBR" sum="0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="13"/>
+   <action player="QueenBR" sum="37" type="5" no="14"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="15"/>
+  </round>
+ </game>
+ <game gamecode="11236248299">
+  <general>
+   <startdate>2025-01-29 15:28:37</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="635" reg_code="" bet="35" name="rakkki"/>
+    <player win="90" dealer="1" seat="6" chips="455" reg_code="8271511839" bet="60" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="410" reg_code="" bet="20" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="QueenBR" sum="5" type="15" no="1"/>
+   <action player="rakkki" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="QueenBR" sum="15" type="1" no="4"/>
+   <action player="rakkki" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D5 D4</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="6"/>
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="7"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236248337">
+  <general>
+   <startdate>2025-01-29 15:28:49</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="75" dealer="0" seat="3" chips="600" reg_code="" bet="595" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="510" reg_code="8271511839" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="390" reg_code="" bet="5" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="rakkki" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="QueenBR" sum="5" type="15" no="3"/>
+   <action player="rakkki" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="QueenBR" type="Pocket">X X</cards>
+   <action player="QueenBR" sum="0" type="0" no="6"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="595" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CK HJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236248402">
+  <general>
+   <startdate>2025-01-29 15:29:09</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="640" reg_code="" bet="5" name="rakkki"/>
+    <player win="775" dealer="0" seat="6" chips="475" reg_code="8271511839" bet="385" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="385" reg_code="" bet="385" name="QueenBR"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="QueenBR" sum="5" type="15" no="2"/>
+   <action player="rakkki" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="QueenBR" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SJ HJ</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="7"/>
+   <cards player="QueenBR" type="Pocket">C3 C4</cards>
+   <action player="QueenBR" sum="30" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 H9 S8</cards>
+   <action player="PagaYTeCojo1" sum="33" type="5" no="9"/>
+   <action player="QueenBR" sum="33" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D9</cards>
+   <action player="PagaYTeCojo1" sum="100" type="5" no="11"/>
+   <action player="QueenBR" sum="287" type="23" no="12"/>
+   <action player="PagaYTeCojo1" sum="187" type="3" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">DJ</cards>
+  </round>
+ </game>
+ <game gamecode="11236248515">
+  <general>
+   <startdate>2025-01-29 15:29:47</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="635" reg_code="" bet="45" name="rakkki"/>
+    <player win="90" dealer="1" seat="6" chips="865" reg_code="8271511839" bet="105" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="rakkki" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="rakkki" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C8 C9</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 CQ D9</cards>
+   <action player="rakkki" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+   <action player="rakkki" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="60" type="5" no="10"/>
+   <action player="rakkki" sum="0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236248622">
+  <general>
+   <startdate>2025-01-29 15:30:24</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="590" reg_code="" bet="585" name="rakkki"/>
+    <player win="0" dealer="0" seat="6" chips="910" reg_code="8271511839" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="rakkki" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="rakkki" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="585" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S9 S8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236248648">
+  <general>
+   <startdate>2025-01-29 15:30:33</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="0" seat="3" chips="635" reg_code="" bet="630" name="rakkki"/>
+    <player win="0" dealer="1" seat="6" chips="865" reg_code="8271511839" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="rakkki" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="rakkki" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S9 DQ</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="rakkki" type="Pocket">X X</cards>
+   <action player="rakkki" sum="630" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236248696">
+  <general>
+   <startdate>2025-01-29 15:30:49</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="680" reg_code="" bet="675" name="rakkki"/>
+    <player win="1,360" dealer="0" seat="6" chips="820" reg_code="8271511839" bet="680" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="rakkki" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="rakkki" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="rakkki" type="Pocket">HA D5</cards>
+   <action player="rakkki" sum="675" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C6 D6</cards>
+   <action player="PagaYTeCojo1" sum="635" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 DQ D7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">SQ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+  </round>
+ </game>
+</session>

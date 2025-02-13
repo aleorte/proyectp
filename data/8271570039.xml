@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271570039">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114123969</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:06:29</duration>
+  <gamecount>14</gamecount>
+  <startdate>2025-01-29 16:42:50</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>2,439</bets>
+  <wins>2,210</wins>
+  <chipsin>580</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114123968</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€20</win>
+ </general>
+ <game gamecode="11236372564">
+  <general>
+   <startdate>2025-01-29 16:42:50</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="140" dealer="1" seat="3" chips="500" reg_code="8271570039" bet="140" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="60" name="Tonksy27"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Tonksy27" sum="10" type="1" no="1"/>
+   <action player="WillyElMagico" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D8 SA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="30" type="3" no="4"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="0" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H4 DJ D3</cards>
+   <action player="Tonksy27" sum="20" type="5" no="6"/>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H10</cards>
+   <action player="Tonksy27" sum="0" type="4" no="8"/>
+   <action player="PagaYTeCojo1" sum="80" type="5" no="9"/>
+   <action player="Tonksy27" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236384667">
+  <general>
+   <startdate>2025-01-29 16:43:17</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="580" reg_code="8271570039" bet="20" name="PagaYTeCojo1"/>
+    <player win="50" dealer="1" seat="6" chips="440" reg_code="" bet="40" name="Tonksy27"/>
+    <player win="0" dealer="0" seat="10" chips="480" reg_code="" bet="10" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WillyElMagico" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="40" type="23" no="3"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CQ S2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236384709">
+  <general>
+   <startdate>2025-01-29 16:43:30</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="100" dealer="0" seat="3" chips="560" reg_code="8271570039" bet="125" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="470" reg_code="" bet="50" name="Tonksy27"/>
+    <player win="0" dealer="1" seat="10" chips="470" reg_code="" bet="0" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Tonksy27" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HK HQ</cards>
+   <action player="PagaYTeCojo1" sum="50" type="23" no="4"/>
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="30" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 CQ S8</cards>
+   <action player="PagaYTeCojo1" sum="75" type="5" no="6"/>
+   <action player="Tonksy27" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236384766">
+  <general>
+   <startdate>2025-01-29 16:43:47</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="610" reg_code="8271570039" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="420" reg_code="" bet="20" name="Tonksy27"/>
+    <player win="40" dealer="0" seat="10" chips="470" reg_code="" bet="40" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Tonksy27" sum="10" type="1" no="1"/>
+   <action player="WillyElMagico" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D6 D4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="10" type="3" no="4"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 H4 S4</cards>
+   <action player="Tonksy27" sum="0" type="4" no="6"/>
+   <action player="WillyElMagico" sum="20" type="5" no="7"/>
+   <action player="Tonksy27" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236384844">
+  <general>
+   <startdate>2025-01-29 16:44:16</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="610" reg_code="8271570039" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="400" reg_code="" bet="20" name="Tonksy27"/>
+    <player win="60" dealer="0" seat="10" chips="490" reg_code="" bet="490" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WillyElMagico" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="20" type="3" no="3"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="490" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SK S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+   <action player="Tonksy27" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236384907">
+  <general>
+   <startdate>2025-01-29 16:44:36</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="590" reg_code="8271570039" bet="10" name="PagaYTeCojo1"/>
+    <player win="385" dealer="0" seat="6" chips="380" reg_code="" bet="380" name="Tonksy27"/>
+    <player win="385" dealer="1" seat="10" chips="530" reg_code="" bet="380" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Tonksy27" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="WillyElMagico" type="Pocket">CA SJ</cards>
+   <action player="WillyElMagico" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D9 H7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="Tonksy27" type="Pocket">HA HJ</cards>
+   <action player="Tonksy27" sum="380" type="23" no="5"/>
+   <action player="WillyElMagico" sum="340" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 CQ H10</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D6</cards>
+  </round>
+ </game>
+ <game gamecode="11236384972">
+  <general>
+   <startdate>2025-01-29 16:45:01</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="580" reg_code="8271570039" bet="5" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="385" reg_code="" bet="35" name="Tonksy27"/>
+    <player win="75" dealer="0" seat="10" chips="535" reg_code="" bet="90" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Tonksy27" sum="5" type="15" no="1"/>
+   <action player="WillyElMagico" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Tonksy27" sum="15" type="1" no="4"/>
+   <action player="WillyElMagico" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S6 DK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="15" type="3" no="7"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="90" type="23" no="8"/>
+   <action player="Tonksy27" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236385033">
+  <general>
+   <startdate>2025-01-29 16:45:24</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="45" dealer="0" seat="3" chips="575" reg_code="8271570039" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="350" reg_code="" bet="5" name="Tonksy27"/>
+    <player win="0" dealer="0" seat="10" chips="575" reg_code="" bet="20" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WillyElMagico" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Tonksy27" sum="5" type="15" no="3"/>
+   <action player="WillyElMagico" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DA CQ</cards>
+   <cards player="Tonksy27" type="Pocket">X X</cards>
+   <action player="Tonksy27" sum="0" type="0" no="6"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236385078">
+  <general>
+   <startdate>2025-01-29 16:45:39</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="695" dealer="0" seat="3" chips="600" reg_code="8271570039" bet="595" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="345" reg_code="" bet="345" name="Tonksy27"/>
+    <player win="0" dealer="1" seat="10" chips="555" reg_code="" bet="5" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Tonksy27" sum="5" type="15" no="2"/>
+   <action player="WillyElMagico" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Tonksy27" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DQ HA</cards>
+   <action player="PagaYTeCojo1" sum="595" type="23" no="7"/>
+   <cards player="Tonksy27" type="Pocket">SJ DJ</cards>
+   <action player="Tonksy27" sum="310" type="7" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S6 S9</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S4</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+  </round>
+ </game>
+ <game gamecode="11236385152">
+  <general>
+   <startdate>2025-01-29 16:46:02</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="950" reg_code="8271570039" bet="65" name="PagaYTeCojo1"/>
+    <player win="130" dealer="0" seat="10" chips="550" reg_code="" bet="65" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="WillyElMagico" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="WillyElMagico" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D8 SK</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="5"/>
+   <cards player="WillyElMagico" type="Pocket">HQ H2</cards>
+   <action player="WillyElMagico" sum="30" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 S4 C10</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236385281">
+  <general>
+   <startdate>2025-01-29 16:46:46</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="314" dealer="0" seat="3" chips="885" reg_code="8271570039" bet="157" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="615" reg_code="" bet="157" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WillyElMagico" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="WillyElMagico" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="WillyElMagico" type="Pocket">D4 D10</cards>
+   <action player="WillyElMagico" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HA C10</cards>
+   <action player="PagaYTeCojo1" sum="90" type="23" no="6"/>
+   <action player="WillyElMagico" sum="60" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DJ SJ H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+   <action player="WillyElMagico" sum="0" type="4" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="WillyElMagico" sum="62" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="62" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">H7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="13"/>
+   <action player="WillyElMagico" sum="0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236385463">
+  <general>
+   <startdate>2025-01-29 16:48:03</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="1,042" reg_code="8271570039" bet="85" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="458" reg_code="" bet="45" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="WillyElMagico" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="WillyElMagico" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D3 CQ</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D2 D7 S2</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CJ</cards>
+   <action player="WillyElMagico" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="40" type="5" no="10"/>
+   <action player="WillyElMagico" sum="0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236385581">
+  <general>
+   <startdate>2025-01-29 16:48:51</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="0" seat="3" chips="1,087" reg_code="8271570039" bet="65" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="413" reg_code="" bet="35" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="WillyElMagico" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="WillyElMagico" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D4 S6</cards>
+   <cards player="WillyElMagico" type="Pocket">X X</cards>
+   <action player="WillyElMagico" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236385609">
+  <general>
+   <startdate>2025-01-29 16:49:04</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="756" dealer="1" seat="3" chips="1,122" reg_code="8271570039" bet="1,117" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="378" reg_code="" bet="378" name="WillyElMagico"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="WillyElMagico" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="WillyElMagico" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 DQ</cards>
+   <action player="PagaYTeCojo1" sum="1,117" type="23" no="5"/>
+   <cards player="WillyElMagico" type="Pocket">S8 H8</cards>
+   <action player="WillyElMagico" sum="313" type="7" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK CQ C2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C5</cards>
+  </round>
+ </game>
+</session>

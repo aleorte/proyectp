@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271606145">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114127686</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:07:00</duration>
+  <gamecount>24</gamecount>
+  <startdate>2025-01-29 17:24:10</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>3,475</bets>
+  <wins>1,870</wins>
+  <chipsin>500</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114127684</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>2</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236452771">
+  <general>
+   <startdate>2025-01-29 17:24:10</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="8271606145" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="40" name="ANTISEPTIC"/>
+    <player win="80" dealer="0" seat="10" chips="500" reg_code="" bet="500" name="1973POKERPRO"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="10" type="1" no="1"/>
+   <action player="1973POKERPRO" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DJ H5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="40" type="23" no="4"/>
+   <cards player="1973POKERPRO" type="Pocket">X X</cards>
+   <action player="1973POKERPRO" sum="500" type="23" no="5"/>
+   <action player="ANTISEPTIC" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236452798">
+  <general>
+   <startdate>2025-01-29 17:24:22</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="8271606145" bet="20" name="PagaYTeCojo1"/>
+    <player win="940" dealer="1" seat="6" chips="460" reg_code="" bet="460" name="ANTISEPTIC"/>
+    <player win="0" dealer="0" seat="10" chips="540" reg_code="" bet="460" name="1973POKERPRO"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1973POKERPRO" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">CJ H10</cards>
+   <action player="ANTISEPTIC" sum="40" type="23" no="3"/>
+   <cards player="1973POKERPRO" type="Pocket">SQ D7</cards>
+   <action player="1973POKERPRO" sum="30" type="3" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SJ C3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 S2 S3</cards>
+   <action player="1973POKERPRO" sum="0" type="4" no="6"/>
+   <action player="ANTISEPTIC" sum="0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+   <action player="1973POKERPRO" sum="100" type="5" no="8"/>
+   <action player="ANTISEPTIC" sum="420" type="23" no="9"/>
+   <action player="1973POKERPRO" sum="320" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+  </round>
+ </game>
+ <game gamecode="11236452859">
+  <general>
+   <startdate>2025-01-29 17:24:47</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="8271606145" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="940" reg_code="" bet="80" name="ANTISEPTIC"/>
+    <player win="170" dealer="1" seat="10" chips="80" reg_code="" bet="80" name="1973POKERPRO"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="ANTISEPTIC" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="1973POKERPRO" type="Pocket">DK D2</cards>
+   <action player="1973POKERPRO" sum="80" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DQ D7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="ANTISEPTIC" type="Pocket">C10 H8</cards>
+   <action player="ANTISEPTIC" sum="60" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C5 H5 H6</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+  </round>
+ </game>
+ <game gamecode="11236452921">
+  <general>
+   <startdate>2025-01-29 17:25:15</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="470" reg_code="8271606145" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="860" reg_code="" bet="860" name="ANTISEPTIC"/>
+    <player win="340" dealer="0" seat="10" chips="170" reg_code="" bet="170" name="1973POKERPRO"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="10" type="1" no="1"/>
+   <action player="1973POKERPRO" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CA H2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="ANTISEPTIC" type="Pocket">C6 HK</cards>
+   <action player="ANTISEPTIC" sum="860" type="23" no="4"/>
+   <cards player="1973POKERPRO" type="Pocket">DA D8</cards>
+   <action player="1973POKERPRO" sum="150" type="7" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 S3 H8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C4</cards>
+  </round>
+ </game>
+ <game gamecode="11236452968">
+  <general>
+   <startdate>2025-01-29 17:25:35</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="470" reg_code="8271606145" bet="20" name="PagaYTeCojo1"/>
+    <player win="700" dealer="1" seat="6" chips="690" reg_code="" bet="340" name="ANTISEPTIC"/>
+    <player win="0" dealer="0" seat="10" chips="340" reg_code="" bet="340" name="1973POKERPRO"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="1973POKERPRO" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">S10 HA</cards>
+   <action player="ANTISEPTIC" sum="40" type="23" no="3"/>
+   <cards player="1973POKERPRO" type="Pocket">SA C6</cards>
+   <action player="1973POKERPRO" sum="340" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D2 D10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+   <action player="ANTISEPTIC" sum="300" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ H8 DA</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H2</cards>
+  </round>
+ </game>
+ <game gamecode="11236453032">
+  <general>
+   <startdate>2025-01-29 17:26:01</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="450" reg_code="8271606145" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="6" chips="1,050" reg_code="" bet="20" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="ANTISEPTIC" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">C3 H10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="11236453053">
+  <general>
+   <startdate>2025-01-29 17:26:07</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="160" dealer="0" seat="3" chips="440" reg_code="8271606145" bet="160" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="1,060" reg_code="" bet="80" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="10" type="3" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 HA</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="4"/>
+   <action player="ANTISEPTIC" sum="40" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 C7 S7</cards>
+   <action player="PagaYTeCojo1" sum="20" type="5" no="6"/>
+   <action player="ANTISEPTIC" sum="20" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CQ</cards>
+   <action player="PagaYTeCojo1" sum="80" type="5" no="8"/>
+   <action player="ANTISEPTIC" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236453101">
+  <general>
+   <startdate>2025-01-29 17:26:27</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="520" reg_code="8271606145" bet="20" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="6" chips="980" reg_code="" bet="35" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">C2 S7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236453122">
+  <general>
+   <startdate>2025-01-29 17:26:35</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="0" seat="3" chips="500" reg_code="8271606145" bet="495" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="1,000" reg_code="" bet="35" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H2 C2</cards>
+   <action player="PagaYTeCojo1" sum="495" type="23" no="6"/>
+   <action player="ANTISEPTIC" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236453154">
+  <general>
+   <startdate>2025-01-29 17:26:48</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="1,070" dealer="1" seat="3" chips="535" reg_code="8271606145" bet="535" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="965" reg_code="" bet="960" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CK C8</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="ANTISEPTIC" type="Pocket">SA C4</cards>
+   <action player="ANTISEPTIC" sum="960" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="500" type="7" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DK CQ S10</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">DQ</cards>
+  </round>
+ </game>
+ <game gamecode="11236453240">
+  <general>
+   <startdate>2025-01-29 17:27:18</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,070" reg_code="8271606145" bet="35" name="PagaYTeCojo1"/>
+    <player win="70" dealer="1" seat="6" chips="430" reg_code="" bet="60" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="60" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D3 D8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236453267">
+  <general>
+   <startdate>2025-01-29 17:27:31</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,035" reg_code="8271606145" bet="20" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="6" chips="465" reg_code="" bet="35" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">D2 S6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236453283">
+  <general>
+   <startdate>2025-01-29 17:27:37</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="0" seat="3" chips="1,015" reg_code="8271606145" bet="90" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="485" reg_code="" bet="35" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C2 SJ</cards>
+   <action player="PagaYTeCojo1" sum="90" type="23" no="6"/>
+   <action player="ANTISEPTIC" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236453318">
+  <general>
+   <startdate>2025-01-29 17:27:48</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,050" reg_code="8271606145" bet="125" name="PagaYTeCojo1"/>
+    <player win="250" dealer="0" seat="6" chips="450" reg_code="" bet="450" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S7 H8</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK D8 D6</cards>
+   <action player="ANTISEPTIC" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="ANTISEPTIC" sum="90" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="90" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action player="ANTISEPTIC" sum="325" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236453422">
+  <general>
+   <startdate>2025-01-29 17:28:26</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="925" reg_code="8271606145" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="6" chips="575" reg_code="" bet="85" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C9 D5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H3 S2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="ANTISEPTIC" sum="40" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236453453">
+  <general>
+   <startdate>2025-01-29 17:28:37</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="880" reg_code="8271606145" bet="25" name="PagaYTeCojo1"/>
+    <player win="50" dealer="0" seat="6" chips="620" reg_code="" bet="45" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">H2 S9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236453468">
+  <general>
+   <startdate>2025-01-29 17:28:44</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="330" dealer="0" seat="3" chips="855" reg_code="8271606145" bet="165" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="645" reg_code="" bet="165" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">SQ DK</cards>
+   <action player="ANTISEPTIC" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SK SA</cards>
+   <action player="PagaYTeCojo1" sum="120" type="23" no="6"/>
+   <action player="ANTISEPTIC" sum="80" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H10 DJ</cards>
+   <action player="PagaYTeCojo1" sum="40" type="5" no="8"/>
+   <action player="ANTISEPTIC" sum="40" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="ANTISEPTIC" sum="0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+   <action player="ANTISEPTIC" sum="0" type="4" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236453529">
+  <general>
+   <startdate>2025-01-29 17:29:05</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,020" reg_code="8271606145" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="0" seat="6" chips="480" reg_code="" bet="140" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D7 C10</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="140" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236453557">
+  <general>
+   <startdate>2025-01-29 17:29:18</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="170" dealer="0" seat="3" chips="975" reg_code="8271606145" bet="125" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="525" reg_code="" bet="85" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S9 D6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S5 D10 D8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="ANTISEPTIC" sum="40" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="ANTISEPTIC" sum="0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+   <action player="PagaYTeCojo1" sum="40" type="5" no="12"/>
+   <action player="ANTISEPTIC" sum="0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236453625">
+  <general>
+   <startdate>2025-01-29 17:29:47</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,060" reg_code="8271606145" bet="25" name="PagaYTeCojo1"/>
+    <player win="50" dealer="0" seat="6" chips="440" reg_code="" bet="45" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 C3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236453651">
+  <general>
+   <startdate>2025-01-29 17:29:55</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,035" reg_code="8271606145" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="6" chips="465" reg_code="" bet="85" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 C5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H10 SA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="ANTISEPTIC" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="ANTISEPTIC" sum="40" type="5" no="10"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236471301">
+  <general>
+   <startdate>2025-01-29 17:30:27</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="990" reg_code="8271606145" bet="985" name="PagaYTeCojo1"/>
+    <player win="1,020" dealer="0" seat="6" chips="510" reg_code="" bet="510" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DJ D8</cards>
+   <action player="PagaYTeCojo1" sum="985" type="23" no="5"/>
+   <cards player="ANTISEPTIC" type="Pocket">S5 HK</cards>
+   <action player="ANTISEPTIC" sum="445" type="7" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 D4 D3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+  </round>
+ </game>
+ <game gamecode="11236471346">
+  <general>
+   <startdate>2025-01-29 17:30:45</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="8271606145" bet="65" name="PagaYTeCojo1"/>
+    <player win="130" dealer="1" seat="6" chips="1,020" reg_code="" bet="1,015" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="ANTISEPTIC" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="ANTISEPTIC" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="ANTISEPTIC" type="Pocket">X X</cards>
+   <action player="ANTISEPTIC" sum="1,015" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D6 HJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236471383">
+  <general>
+   <startdate>2025-01-29 17:30:58</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="415" reg_code="8271606145" bet="410" name="PagaYTeCojo1"/>
+    <player win="830" dealer="0" seat="6" chips="1,085" reg_code="" bet="415" name="ANTISEPTIC"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="ANTISEPTIC" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="ANTISEPTIC" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H2 CK</cards>
+   <action player="PagaYTeCojo1" sum="410" type="23" no="5"/>
+   <cards player="ANTISEPTIC" type="Pocket">CQ DQ</cards>
+   <action player="ANTISEPTIC" sum="350" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA D9 C10</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S3</cards>
+  </round>
+ </game>
+</session>

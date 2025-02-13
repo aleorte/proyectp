@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271512583">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114117880</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:06:57</duration>
+  <gamecount>16</gamecount>
+  <startdate>2025-01-29 15:26:48</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>2,390</bets>
+  <wins>680</wins>
+  <chipsin>480</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114117879</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€50</rewarddrawn>
+  <place>2</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236254661">
+  <general>
+   <startdate>2025-01-29 15:26:48</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="40" dealer="0" seat="3" chips="500" reg_code="" bet="500" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="8271512583" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="" bet="0" name="Ingeniouslast88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Ingeniouslast88" type="Pocket">X X</cards>
+   <action player="Ingeniouslast88" sum="0" type="0" no="3"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="500" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D8 D9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236254713">
+  <general>
+   <startdate>2025-01-29 15:27:07</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="1,010" dealer="1" seat="3" chips="520" reg_code="" bet="500" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="480" reg_code="8271512583" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="" bet="500" name="Ingeniouslast88"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Ingeniouslast88" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">DA SA</cards>
+   <action player="GOMEZ15" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S8 DJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="Ingeniouslast88" type="Pocket">SJ HA</cards>
+   <action player="Ingeniouslast88" sum="60" type="23" no="5"/>
+   <action player="GOMEZ15" sum="120" type="23" no="6"/>
+   <action player="Ingeniouslast88" sum="500" type="23" no="7"/>
+   <action player="GOMEZ15" sum="380" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H9 D9 DQ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S7</cards>
+  </round>
+ </game>
+ <game gamecode="11236254820">
+  <general>
+   <startdate>2025-01-29 15:27:46</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="80" dealer="0" seat="3" chips="1,030" reg_code="" bet="40" name="GOMEZ15"/>
+    <player win="0" dealer="1" seat="6" chips="470" reg_code="8271512583" bet="40" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="GOMEZ15" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C8 DQ</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="GOMEZ15" type="Pocket">H4 SK</cards>
+   <action player="GOMEZ15" sum="20" type="3" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C7 D6 H7</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="5"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236254926">
+  <general>
+   <startdate>2025-01-29 15:28:24</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,070" reg_code="" bet="20" name="GOMEZ15"/>
+    <player win="40" dealer="0" seat="6" chips="430" reg_code="8271512583" bet="430" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="10" type="3" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C6 DA</cards>
+   <action player="PagaYTeCojo1" sum="430" type="23" no="4"/>
+   <action player="GOMEZ15" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236254967">
+  <general>
+   <startdate>2025-01-29 15:28:37</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,050" reg_code="" bet="20" name="GOMEZ15"/>
+    <player win="40" dealer="1" seat="6" chips="450" reg_code="8271512583" bet="40" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="GOMEZ15" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SA HK</cards>
+   <action player="PagaYTeCojo1" sum="10" type="3" no="3"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H10 D3 S5</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="5"/>
+   <action player="PagaYTeCojo1" sum="20" type="5" no="6"/>
+   <action player="GOMEZ15" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236255037">
+  <general>
+   <startdate>2025-01-29 15:28:59</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="1" seat="3" chips="1,030" reg_code="" bet="35" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="470" reg_code="8271512583" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="GOMEZ15" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">D10 D7</cards>
+   <action player="GOMEZ15" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D3 CJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 C8 HK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="GOMEZ15" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="GOMEZ15" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="GOMEZ15" sum="0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236255169">
+  <general>
+   <startdate>2025-01-29 15:29:40</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,065" reg_code="" bet="110" name="GOMEZ15"/>
+    <player win="220" dealer="1" seat="6" chips="435" reg_code="8271512583" bet="220" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="GOMEZ15" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="GOMEZ15" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C9 SK</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="5"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="30" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 S7 DJ</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="45" type="5" no="8"/>
+   <action player="GOMEZ15" sum="45" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H3</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="10"/>
+   <action player="PagaYTeCojo1" sum="110" type="5" no="11"/>
+   <action player="GOMEZ15" sum="0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236255305">
+  <general>
+   <startdate>2025-01-29 15:30:24</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="1" seat="3" chips="955" reg_code="" bet="60" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="545" reg_code="8271512583" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="GOMEZ15" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="60" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H2 D4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236255335">
+  <general>
+   <startdate>2025-01-29 15:30:35</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="990" reg_code="" bet="35" name="GOMEZ15"/>
+    <player win="70" dealer="1" seat="6" chips="510" reg_code="8271512583" bet="65" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="GOMEZ15" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="GOMEZ15" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S2 SJ</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S6 D2 S10</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="GOMEZ15" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236255425">
+  <general>
+   <startdate>2025-01-29 15:31:00</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="370" dealer="1" seat="3" chips="955" reg_code="" bet="185" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="545" reg_code="8271512583" bet="185" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="GOMEZ15" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">CK S4</cards>
+   <action player="GOMEZ15" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C8 H9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK D6 S2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="GOMEZ15" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+   <action player="PagaYTeCojo1" sum="60" type="5" no="9"/>
+   <action player="GOMEZ15" sum="60" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+   <action player="PagaYTeCojo1" sum="80" type="5" no="11"/>
+   <action player="GOMEZ15" sum="80" type="3" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236255573">
+  <general>
+   <startdate>2025-01-29 15:31:45</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,140" reg_code="" bet="45" name="GOMEZ15"/>
+    <player win="90" dealer="1" seat="6" chips="360" reg_code="8271512583" bet="355" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="GOMEZ15" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="GOMEZ15" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C6 D6</cards>
+   <action player="PagaYTeCojo1" sum="355" type="23" no="5"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236255601">
+  <general>
+   <startdate>2025-01-29 15:31:54</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="1,095" reg_code="" bet="1,090" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="405" reg_code="8271512583" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="GOMEZ15" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="1,090" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S10 S3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236255639">
+  <general>
+   <startdate>2025-01-29 15:32:08</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,140" reg_code="" bet="45" name="GOMEZ15"/>
+    <player win="90" dealer="1" seat="6" chips="360" reg_code="8271512583" bet="85" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="GOMEZ15" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="GOMEZ15" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H7 C7</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CJ C3 CA</cards>
+   <action player="GOMEZ15" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="40" type="5" no="8"/>
+   <action player="GOMEZ15" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236255694">
+  <general>
+   <startdate>2025-01-29 15:32:26</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="3" chips="1,095" reg_code="" bet="45" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="405" reg_code="8271512583" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="GOMEZ15" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">SA S7</cards>
+   <action player="GOMEZ15" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S10 C3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 CJ HK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="GOMEZ15" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="GOMEZ15" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">HJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="GOMEZ15" sum="0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236267464">
+  <general>
+   <startdate>2025-01-29 15:33:18</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,140" reg_code="" bet="65" name="GOMEZ15"/>
+    <player win="130" dealer="1" seat="6" chips="360" reg_code="8271512583" bet="355" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="GOMEZ15" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="GOMEZ15" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DK S3</cards>
+   <action player="PagaYTeCojo1" sum="355" type="23" no="5"/>
+   <cards player="GOMEZ15" type="Pocket">X X</cards>
+   <action player="GOMEZ15" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236267497">
+  <general>
+   <startdate>2025-01-29 15:33:30</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="850" dealer="1" seat="3" chips="1,075" reg_code="" bet="1,070" name="GOMEZ15"/>
+    <player win="0" dealer="0" seat="6" chips="425" reg_code="8271512583" bet="425" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="GOMEZ15" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="GOMEZ15" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="GOMEZ15" type="Pocket">DJ C10</cards>
+   <action player="GOMEZ15" sum="1,070" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SA HJ</cards>
+   <action player="PagaYTeCojo1" sum="360" type="7" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S8 H7 H9</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">HK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+  </round>
+ </game>
+</session>

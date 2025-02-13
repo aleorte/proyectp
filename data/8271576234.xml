@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271576234">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114124422</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:05:16</duration>
+  <gamecount>18</gamecount>
+  <startdate>2025-01-29 16:49:38</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>1,492</bets>
+  <wins>518</wins>
+  <chipsin>500</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114124421</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€50</rewarddrawn>
+  <place>2</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236390637">
+  <general>
+   <startdate>2025-01-29 16:49:38</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="" bet="500" name="dragongiant261"/>
+    <player win="1,000" dealer="0" seat="6" chips="500" reg_code="" bet="500" name="Uthred78"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="8271576234" bet="0" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="dragongiant261" sum="10" type="1" no="1"/>
+   <action player="Uthred78" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H7 DJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="dragongiant261" type="Pocket">SK S6</cards>
+   <action player="dragongiant261" sum="10" type="3" no="4"/>
+   <cards player="Uthred78" type="Pocket">CK SJ</cards>
+   <action player="Uthred78" sum="50" type="23" no="5"/>
+   <action player="dragongiant261" sum="80" type="23" no="6"/>
+   <action player="Uthred78" sum="30" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 CJ H5</cards>
+   <action player="dragongiant261" sum="20" type="5" no="8"/>
+   <action player="Uthred78" sum="110" type="23" no="9"/>
+   <action player="dragongiant261" sum="90" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C2</cards>
+   <action player="dragongiant261" sum="0" type="4" no="11"/>
+   <action player="Uthred78" sum="310" type="5" no="12"/>
+   <action player="dragongiant261" sum="310" type="7" no="13"/>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+  </round>
+ </game>
+ <game gamecode="11236390767">
+  <general>
+   <startdate>2025-01-29 16:50:23</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="120" dealer="1" seat="6" chips="1,000" reg_code="" bet="60" name="Uthred78"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="8271576234" bet="60" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">C7 SK</cards>
+   <action player="Uthred78" sum="10" type="3" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D5 H7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 H6 C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="5"/>
+   <action player="Uthred78" sum="40" type="5" no="6"/>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+   <action player="Uthred78" sum="0" type="4" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">D7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="Uthred78" sum="0" type="4" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236390891">
+  <general>
+   <startdate>2025-01-29 16:51:05</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="20" dealer="0" seat="6" chips="1,060" reg_code="" bet="20" name="Uthred78"/>
+    <player win="0" dealer="1" seat="10" chips="440" reg_code="8271576234" bet="10" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Uthred78" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">H8 C2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="11236390909">
+  <general>
+   <startdate>2025-01-29 16:51:12</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="6" chips="1,070" reg_code="" bet="10" name="Uthred78"/>
+    <player win="20" dealer="0" seat="10" chips="430" reg_code="8271576234" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H8 S5</cards>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="0" type="0" no="3"/>
+  </round>
+ </game>
+ <game gamecode="11236390925">
+  <general>
+   <startdate>2025-01-29 16:51:17</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="1,060" reg_code="" bet="20" name="Uthred78"/>
+    <player win="40" dealer="1" seat="10" chips="440" reg_code="8271576234" bet="40" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Uthred78" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D7 HJ</cards>
+   <action player="PagaYTeCojo1" sum="10" type="3" no="3"/>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="0" type="4" no="4"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 C9 D3</cards>
+   <action player="Uthred78" sum="0" type="4" no="5"/>
+   <action player="PagaYTeCojo1" sum="20" type="5" no="6"/>
+   <action player="Uthred78" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236390994">
+  <general>
+   <startdate>2025-01-29 16:51:36</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="6" chips="1,040" reg_code="" bet="20" name="Uthred78"/>
+    <player win="40" dealer="0" seat="10" chips="460" reg_code="8271576234" bet="60" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="10" type="3" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D10 CK</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="4"/>
+   <action player="Uthred78" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236391020">
+  <general>
+   <startdate>2025-01-29 16:51:46</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="40" dealer="0" seat="6" chips="1,020" reg_code="" bet="35" name="Uthred78"/>
+    <player win="0" dealer="1" seat="10" chips="480" reg_code="8271576234" bet="20" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Uthred78" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Uthred78" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 C3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236391034">
+  <general>
+   <startdate>2025-01-29 16:51:52</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="1" seat="6" chips="1,040" reg_code="" bet="70" name="Uthred78"/>
+    <player win="0" dealer="0" seat="10" chips="460" reg_code="8271576234" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Uthred78" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D8 C4 CQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="Uthred78" sum="35" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236391096">
+  <general>
+   <startdate>2025-01-29 16:52:12</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="1,075" reg_code="" bet="35" name="Uthred78"/>
+    <player win="70" dealer="1" seat="10" chips="425" reg_code="8271576234" bet="65" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Uthred78" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Uthred78" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S8 C10</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 H6 D8</cards>
+   <action player="Uthred78" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="Uthred78" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236391189">
+  <general>
+   <startdate>2025-01-29 16:52:42</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="6" chips="1,040" reg_code="" bet="20" name="Uthred78"/>
+    <player win="40" dealer="0" seat="10" chips="460" reg_code="8271576234" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Uthred78" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H4 SQ</cards>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236391206">
+  <general>
+   <startdate>2025-01-29 16:52:48</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="0" seat="6" chips="1,020" reg_code="" bet="1,015" name="Uthred78"/>
+    <player win="0" dealer="1" seat="10" chips="480" reg_code="8271576234" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Uthred78" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Uthred78" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H6 D5</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="1,015" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236391251">
+  <general>
+   <startdate>2025-01-29 16:53:01</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="140" dealer="1" seat="6" chips="1,055" reg_code="" bet="168" name="Uthred78"/>
+    <player win="0" dealer="0" seat="10" chips="445" reg_code="8271576234" bet="70" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Uthred78" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S7 C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ CK S10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="Uthred78" sum="35" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="35" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="Uthred78" sum="98" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236391340">
+  <general>
+   <startdate>2025-01-29 16:53:32</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="1,125" reg_code="" bet="84" name="Uthred78"/>
+    <player win="168" dealer="1" seat="10" chips="375" reg_code="8271576234" bet="84" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Uthred78" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Uthred78" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S9 C9</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="Uthred78" type="Pocket">S6 C7</cards>
+   <action player="Uthred78" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 D5 S5</cards>
+   <action player="Uthred78" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C5</cards>
+   <action player="Uthred78" sum="49" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="49" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C2</cards>
+   <action player="Uthred78" sum="0" type="4" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236402217">
+  <general>
+   <startdate>2025-01-29 16:53:59</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="6" chips="1,041" reg_code="" bet="1,036" name="Uthred78"/>
+    <player win="0" dealer="0" seat="10" chips="459" reg_code="8271576234" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Uthred78" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="1,036" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CQ D4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236402247">
+  <general>
+   <startdate>2025-01-29 16:54:09</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="0" seat="6" chips="1,086" reg_code="" bet="1,081" name="Uthred78"/>
+    <player win="0" dealer="1" seat="10" chips="414" reg_code="8271576234" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Uthred78" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Uthred78" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S10 D5</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="1,081" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236402280">
+  <general>
+   <startdate>2025-01-29 16:54:19</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="6" chips="1,131" reg_code="" bet="25" name="Uthred78"/>
+    <player win="50" dealer="0" seat="10" chips="369" reg_code="8271576234" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Uthred78" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H2 H6</cards>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236402294">
+  <general>
+   <startdate>2025-01-29 16:54:25</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="1,106" reg_code="" bet="45" name="Uthred78"/>
+    <player win="90" dealer="1" seat="10" chips="394" reg_code="8271576234" bet="389" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Uthred78" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Uthred78" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SA C2</cards>
+   <action player="PagaYTeCojo1" sum="389" type="23" no="5"/>
+   <cards player="Uthred78" type="Pocket">X X</cards>
+   <action player="Uthred78" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236402319">
+  <general>
+   <startdate>2025-01-29 16:54:33</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="878" dealer="1" seat="6" chips="1,061" reg_code="" bet="439" name="Uthred78"/>
+    <player win="0" dealer="0" seat="10" chips="439" reg_code="8271576234" bet="434" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Uthred78" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Uthred78" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Uthred78" type="Pocket">HQ DQ</cards>
+   <action player="Uthred78" sum="80" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DK S7</cards>
+   <action player="PagaYTeCojo1" sum="434" type="23" no="6"/>
+   <action player="Uthred78" sum="354" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 S4 H3</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SJ</cards>
+  </round>
+ </game>
+</session>

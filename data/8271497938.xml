@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271497938">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114115950</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:07:34</duration>
+  <gamecount>24</gamecount>
+  <startdate>2025-01-29 15:03:34</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>4,576</bets>
+  <wins>3,089</wins>
+  <chipsin>480</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114115949</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€20</win>
+ </general>
+ <game gamecode="11236205914">
+  <general>
+   <startdate>2025-01-29 15:03:34</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="60" dealer="0" seat="3" chips="500" reg_code="" bet="500" name="simplyquiet"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="8271497938" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="500" reg_code="" bet="20" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="simplyquiet" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="20" type="3" no="3"/>
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="500" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H3 H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+   <action player="AceWiller" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236205961">
+  <general>
+   <startdate>2025-01-29 15:03:54</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="540" reg_code="" bet="0" name="simplyquiet"/>
+    <player win="0" dealer="0" seat="6" chips="480" reg_code="8271497938" bet="200" name="PagaYTeCojo1"/>
+    <player win="400" dealer="0" seat="10" chips="480" reg_code="" bet="480" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="AceWiller" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S7 HK</cards>
+   <action player="PagaYTeCojo1" sum="50" type="23" no="4"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="30" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 S4 C7</cards>
+   <action player="PagaYTeCojo1" sum="50" type="5" no="6"/>
+   <action player="AceWiller" sum="50" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+   <action player="AceWiller" sum="100" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="100" type="3" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="AceWiller" sum="280" type="5" no="12"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236206046">
+  <general>
+   <startdate>2025-01-29 15:04:33</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="540" reg_code="" bet="20" name="simplyquiet"/>
+    <player win="50" dealer="1" seat="6" chips="280" reg_code="8271497938" bet="280" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="680" reg_code="" bet="10" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="10" type="1" no="1"/>
+   <action player="simplyquiet" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">HA C9</cards>
+   <action player="PagaYTeCojo1" sum="280" type="23" no="3"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="4"/>
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236206067">
+  <general>
+   <startdate>2025-01-29 15:04:44</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="520" reg_code="" bet="10" name="simplyquiet"/>
+    <player win="0" dealer="0" seat="6" chips="310" reg_code="8271497938" bet="40" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="670" reg_code="" bet="85" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="simplyquiet" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="40" type="23" no="3"/>
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CA S5</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S7 CQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+   <action player="AceWiller" sum="45" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236206136">
+  <general>
+   <startdate>2025-01-29 15:05:15</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="50" dealer="1" seat="3" chips="510" reg_code="" bet="40" name="simplyquiet"/>
+    <player win="0" dealer="0" seat="6" chips="270" reg_code="8271497938" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="720" reg_code="" bet="20" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="AceWiller" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C7 C10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236216694">
+  <general>
+   <startdate>2025-01-29 15:05:25</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="540" reg_code="" bet="20" name="simplyquiet"/>
+    <player win="50" dealer="1" seat="6" chips="260" reg_code="8271497938" bet="40" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="700" reg_code="" bet="10" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="10" type="1" no="1"/>
+   <action player="simplyquiet" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S7 D7</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="4"/>
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236216742">
+  <general>
+   <startdate>2025-01-29 15:05:46</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="520" reg_code="" bet="125" name="simplyquiet"/>
+    <player win="255" dealer="0" seat="6" chips="290" reg_code="8271497938" bet="188" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="690" reg_code="" bet="5" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="simplyquiet" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="5" type="15" no="3"/>
+   <action player="simplyquiet" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="6"/>
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="15" type="3" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H4 CQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 C6 HQ</cards>
+   <action player="simplyquiet" sum="30" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="30" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+   <action player="simplyquiet" sum="60" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="60" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">S8</cards>
+   <action player="simplyquiet" sum="0" type="4" no="13"/>
+   <action player="PagaYTeCojo1" sum="63" type="5" no="14"/>
+   <action player="simplyquiet" sum="0" type="0" no="15"/>
+  </round>
+ </game>
+ <game gamecode="11236216795">
+  <general>
+   <startdate>2025-01-29 15:06:11</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="395" reg_code="" bet="5" name="simplyquiet"/>
+    <player win="75" dealer="0" seat="6" chips="420" reg_code="8271497938" bet="60" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="685" reg_code="" bet="35" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="simplyquiet" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="AceWiller" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="0" type="0" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CK S8</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="7"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236216827">
+  <general>
+   <startdate>2025-01-29 15:06:22</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="390" reg_code="" bet="95" name="simplyquiet"/>
+    <player win="0" dealer="1" seat="6" chips="460" reg_code="8271497938" bet="5" name="PagaYTeCojo1"/>
+    <player win="195" dealer="0" seat="10" chips="650" reg_code="" bet="95" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="simplyquiet" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="AceWiller" sum="15" type="1" no="4"/>
+   <action player="simplyquiet" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C4 H7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="AceWiller" type="Pocket">C8 DA</cards>
+   <action player="AceWiller" sum="90" type="23" no="7"/>
+   <cards player="simplyquiet" type="Pocket">SQ SK</cards>
+   <action player="simplyquiet" sum="60" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D10 H5 D3</cards>
+   <action player="AceWiller" sum="0" type="4" no="9"/>
+   <action player="simplyquiet" sum="0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="AceWiller" sum="0" type="4" no="11"/>
+   <action player="simplyquiet" sum="0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+   <action player="AceWiller" sum="0" type="4" no="13"/>
+   <action player="simplyquiet" sum="0" type="4" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236216907">
+  <general>
+   <startdate>2025-01-29 15:06:58</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="295" reg_code="" bet="98" name="simplyquiet"/>
+    <player win="201" dealer="0" seat="6" chips="455" reg_code="8271497938" bet="173" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="750" reg_code="" bet="5" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="simplyquiet" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="5" type="15" no="3"/>
+   <action player="simplyquiet" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="6"/>
+   <cards player="simplyquiet" type="Pocket">X X</cards>
+   <action player="simplyquiet" sum="60" type="23" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DJ D8</cards>
+   <action player="PagaYTeCojo1" sum="30" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK H2 CJ</cards>
+   <action player="simplyquiet" sum="33" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="33" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+   <action player="simplyquiet" sum="0" type="4" no="11"/>
+   <action player="PagaYTeCojo1" sum="75" type="5" no="12"/>
+   <action player="simplyquiet" sum="0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236216990">
+  <general>
+   <startdate>2025-01-29 15:07:31</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="197" reg_code="" bet="192" name="simplyquiet"/>
+    <player win="0" dealer="0" seat="6" chips="558" reg_code="8271497938" bet="20" name="PagaYTeCojo1"/>
+    <player win="414" dealer="0" seat="10" chips="745" reg_code="" bet="197" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="simplyquiet" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="AceWiller" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="simplyquiet" type="Pocket">S7 SQ</cards>
+   <action player="simplyquiet" sum="192" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S9 S8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="AceWiller" type="Pocket">D2 SA</cards>
+   <action player="AceWiller" sum="162" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D9 S4 S5</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+  </round>
+ </game>
+ <game gamecode="11236217037">
+  <general>
+   <startdate>2025-01-29 15:07:51</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="6" chips="538" reg_code="8271497938" bet="533" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="962" reg_code="" bet="45" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="AceWiller" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DA C3</cards>
+   <action player="PagaYTeCojo1" sum="533" type="23" no="5"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236217062">
+  <general>
+   <startdate>2025-01-29 15:08:00</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="583" reg_code="8271497938" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="917" reg_code="" bet="80" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="80" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C3 C8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236217089">
+  <general>
+   <startdate>2025-01-29 15:08:10</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="170" dealer="1" seat="6" chips="538" reg_code="8271497938" bet="170" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="962" reg_code="" bet="85" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="AceWiller" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DK CJ</cards>
+   <action player="PagaYTeCojo1" sum="80" type="23" no="5"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="40" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CQ S2 S9</cards>
+   <action player="AceWiller" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="85" type="5" no="8"/>
+   <action player="AceWiller" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236217138">
+  <general>
+   <startdate>2025-01-29 15:08:34</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="50" dealer="0" seat="6" chips="623" reg_code="8271497938" bet="45" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="877" reg_code="" bet="25" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H6 D10</cards>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236217158">
+  <general>
+   <startdate>2025-01-29 15:08:42</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="90" dealer="1" seat="6" chips="648" reg_code="8271497938" bet="80" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="852" reg_code="" bet="45" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="AceWiller" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C7 S7</cards>
+   <action player="PagaYTeCojo1" sum="80" type="23" no="5"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236217187">
+  <general>
+   <startdate>2025-01-29 15:08:54</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="693" reg_code="8271497938" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="807" reg_code="" bet="120" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="120" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C7 H5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236217219">
+  <general>
+   <startdate>2025-01-29 15:09:09</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="6" chips="648" reg_code="8271497938" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="0" seat="10" chips="852" reg_code="" bet="85" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="AceWiller" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C5 D9</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA D8 S10</cards>
+   <action player="AceWiller" sum="40" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236217259">
+  <general>
+   <startdate>2025-01-29 15:09:23</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="250" dealer="0" seat="6" chips="603" reg_code="8271497938" bet="250" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="897" reg_code="" bet="125" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CK H9</cards>
+   <action player="PagaYTeCojo1" sum="120" type="23" no="6"/>
+   <action player="AceWiller" sum="80" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CA C7 D8</cards>
+   <action player="PagaYTeCojo1" sum="125" type="5" no="8"/>
+   <action player="AceWiller" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236217316">
+  <general>
+   <startdate>2025-01-29 15:09:45</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="1,456" dealer="1" seat="6" chips="728" reg_code="8271497938" bet="723" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="772" reg_code="" bet="728" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="AceWiller" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 SK</cards>
+   <action player="PagaYTeCojo1" sum="723" type="23" no="5"/>
+   <cards player="AceWiller" type="Pocket">S10 D10</cards>
+   <action player="AceWiller" sum="663" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">CK S4 DA</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">DK</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H6</cards>
+  </round>
+ </game>
+ <game gamecode="11236217393">
+  <general>
+   <startdate>2025-01-29 15:10:14</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="6" chips="1,456" reg_code="8271497938" bet="65" name="PagaYTeCojo1"/>
+    <player win="88" dealer="1" seat="10" chips="44" reg_code="" bet="44" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H9 D8</cards>
+   <cards player="AceWiller" type="Pocket">S10 HJ</cards>
+   <action player="AceWiller" sum="9" type="7" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK SJ C8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">DJ</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D4</cards>
+  </round>
+ </game>
+ <game gamecode="11236217432">
+  <general>
+   <startdate>2025-01-29 15:10:28</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="6" chips="1,412" reg_code="8271497938" bet="120" name="PagaYTeCojo1"/>
+    <player win="176" dealer="0" seat="10" chips="88" reg_code="" bet="88" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="AceWiller" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H9 H3</cards>
+   <action player="PagaYTeCojo1" sum="120" type="23" no="5"/>
+   <cards player="AceWiller" type="Pocket">DJ H4</cards>
+   <action player="AceWiller" sum="23" type="7" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK D7 S6</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CJ</cards>
+  </round>
+ </game>
+ <game gamecode="11236217479">
+  <general>
+   <startdate>2025-01-29 15:10:48</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="0" seat="6" chips="1,324" reg_code="8271497938" bet="65" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="176" reg_code="" bet="35" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="AceWiller" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="AceWiller" sum="30" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C10 HQ</cards>
+   <cards player="AceWiller" type="Pocket">X X</cards>
+   <action player="AceWiller" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236217497">
+  <general>
+   <startdate>2025-01-29 15:10:55</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="282" dealer="1" seat="6" chips="1,359" reg_code="8271497938" bet="1,354" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="141" reg_code="" bet="141" name="AceWiller"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="AceWiller" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="AceWiller" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DJ CQ</cards>
+   <action player="PagaYTeCojo1" sum="1,354" type="23" no="5"/>
+   <cards player="AceWiller" type="Pocket">S8 CK</cards>
+   <action player="AceWiller" sum="76" type="7" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SK S5 DK</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+  </round>
+ </game>
+</session>

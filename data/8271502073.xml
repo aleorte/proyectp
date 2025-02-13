@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271502073">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114116589</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:06:38</duration>
+  <gamecount>16</gamecount>
+  <startdate>2025-01-29 15:10:28</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>2,190</bets>
+  <wins>3,030</wins>
+  <chipsin>520</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114116588</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€20</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€20</win>
+ </general>
+ <game gamecode="11236221755">
+  <general>
+   <startdate>2025-01-29 15:10:28</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="" bet="0" name="YourNansBox"/>
+    <player win="40" dealer="0" seat="6" chips="500" reg_code="8271502073" bet="50" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="BisbeticoDomata"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="BisbeticoDomata" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CA S9</cards>
+   <action player="PagaYTeCojo1" sum="50" type="23" no="4"/>
+   <cards player="BisbeticoDomata" type="Pocket">X X</cards>
+   <action player="BisbeticoDomata" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236221804">
+  <general>
+   <startdate>2025-01-29 15:10:45</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="100" dealer="0" seat="3" chips="500" reg_code="" bet="500" name="YourNansBox"/>
+    <player win="0" dealer="1" seat="6" chips="520" reg_code="8271502073" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="480" reg_code="" bet="50" name="BisbeticoDomata"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BisbeticoDomata" sum="10" type="1" no="1"/>
+   <action player="YourNansBox" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DJ H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="BisbeticoDomata" type="Pocket">X X</cards>
+   <action player="BisbeticoDomata" sum="50" type="23" no="4"/>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="500" type="23" no="5"/>
+   <action player="BisbeticoDomata" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236221848">
+  <general>
+   <startdate>2025-01-29 15:10:59</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="550" reg_code="" bet="10" name="YourNansBox"/>
+    <player win="0" dealer="0" seat="6" chips="520" reg_code="8271502073" bet="20" name="PagaYTeCojo1"/>
+    <player win="50" dealer="1" seat="10" chips="430" reg_code="" bet="40" name="BisbeticoDomata"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BisbeticoDomata" type="Pocket">X X</cards>
+   <action player="BisbeticoDomata" sum="40" type="23" no="3"/>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D5 SQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236221893">
+  <general>
+   <startdate>2025-01-29 15:11:13</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="540" reg_code="" bet="0" name="YourNansBox"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="8271502073" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="10" chips="460" reg_code="" bet="20" name="BisbeticoDomata"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="BisbeticoDomata" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BisbeticoDomata" type="Pocket">X X</cards>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C8 C9</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236221954">
+  <general>
+   <startdate>2025-01-29 15:11:35</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="540" reg_code="" bet="20" name="YourNansBox"/>
+    <player win="0" dealer="1" seat="6" chips="490" reg_code="8271502073" bet="0" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="10" chips="470" reg_code="" bet="470" name="BisbeticoDomata"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="BisbeticoDomata" sum="10" type="1" no="1"/>
+   <action player="YourNansBox" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C4 H2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="BisbeticoDomata" type="Pocket">X X</cards>
+   <action player="BisbeticoDomata" sum="470" type="23" no="4"/>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236222009">
+  <general>
+   <startdate>2025-01-29 15:11:52</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="1,000" dealer="0" seat="3" chips="520" reg_code="" bet="490" name="YourNansBox"/>
+    <player win="0" dealer="0" seat="6" chips="490" reg_code="8271502073" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="490" reg_code="" bet="490" name="BisbeticoDomata"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="BisbeticoDomata" type="Pocket">CJ CA</cards>
+   <action player="BisbeticoDomata" sum="40" type="23" no="3"/>
+   <cards player="YourNansBox" type="Pocket">SQ SK</cards>
+   <action player="YourNansBox" sum="100" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C10 C8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+   <action player="BisbeticoDomata" sum="60" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 S5 H2</cards>
+   <action player="YourNansBox" sum="147" type="5" no="7"/>
+   <action player="BisbeticoDomata" sum="390" type="23" no="8"/>
+   <action player="YourNansBox" sum="243" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">CK</cards>
+  </round>
+ </game>
+ <game gamecode="11236228007">
+  <general>
+   <startdate>2025-01-29 15:12:32</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="1" seat="3" chips="1,030" reg_code="" bet="65" name="YourNansBox"/>
+    <player win="0" dealer="0" seat="6" chips="470" reg_code="8271502073" bet="35" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="YourNansBox" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 C7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C6 SA C10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="YourNansBox" sum="30" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236228047">
+  <general>
+   <startdate>2025-01-29 15:12:48</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,065" reg_code="" bet="35" name="YourNansBox"/>
+    <player win="70" dealer="1" seat="6" chips="435" reg_code="8271502073" bet="65" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="YourNansBox" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="YourNansBox" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H8 D9</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D6 HA C5</cards>
+   <action player="YourNansBox" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="YourNansBox" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236228133">
+  <general>
+   <startdate>2025-01-29 15:13:20</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,030" reg_code="" bet="470" name="YourNansBox"/>
+    <player win="940" dealer="0" seat="6" chips="470" reg_code="8271502073" bet="465" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="YourNansBox" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="YourNansBox" type="Pocket">HQ CK</cards>
+   <action player="YourNansBox" sum="60" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H2 DA</cards>
+   <action player="PagaYTeCojo1" sum="465" type="23" no="6"/>
+   <action player="YourNansBox" sum="405" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S3 C3 S7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D3</cards>
+  </round>
+ </game>
+ <game gamecode="11236228192">
+  <general>
+   <startdate>2025-01-29 15:13:42</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="560" reg_code="" bet="35" name="YourNansBox"/>
+    <player win="70" dealer="1" seat="6" chips="940" reg_code="8271502073" bet="60" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="YourNansBox" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="YourNansBox" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C8 DQ</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="5"/>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236228214">
+  <general>
+   <startdate>2025-01-29 15:13:51</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="610" dealer="1" seat="3" chips="525" reg_code="" bet="305" name="YourNansBox"/>
+    <player win="0" dealer="0" seat="6" chips="975" reg_code="8271502073" bet="305" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="YourNansBox" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="YourNansBox" type="Pocket">CK C10</cards>
+   <action player="YourNansBox" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DJ D6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C4 CJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="YourNansBox" sum="30" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="30" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="YourNansBox" sum="60" type="5" no="11"/>
+   <action player="PagaYTeCojo1" sum="60" type="3" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="13"/>
+   <action player="YourNansBox" sum="180" type="5" no="14"/>
+   <action player="PagaYTeCojo1" sum="180" type="3" no="15"/>
+  </round>
+ </game>
+ <game gamecode="11236228317">
+  <general>
+   <startdate>2025-01-29 15:14:28</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="830" reg_code="" bet="165" name="YourNansBox"/>
+    <player win="330" dealer="1" seat="6" chips="670" reg_code="8271502073" bet="165" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="YourNansBox" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="YourNansBox" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S9 H10</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="YourNansBox" type="Pocket">S6 H9</cards>
+   <action player="YourNansBox" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 C8 H2</cards>
+   <action player="YourNansBox" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="YourNansBox" sum="40" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="120" type="23" no="10"/>
+   <action player="YourNansBox" sum="80" type="3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">H4</cards>
+   <action player="YourNansBox" sum="0" type="4" no="12"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236228411">
+  <general>
+   <startdate>2025-01-29 15:15:03</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="665" reg_code="" bet="25" name="YourNansBox"/>
+    <player win="50" dealer="0" seat="6" chips="835" reg_code="8271502073" bet="45" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="YourNansBox" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SA D2</cards>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236228434">
+  <general>
+   <startdate>2025-01-29 15:15:11</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="640" reg_code="" bet="45" name="YourNansBox"/>
+    <player win="90" dealer="1" seat="6" chips="860" reg_code="8271502073" bet="105" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="YourNansBox" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="YourNansBox" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H7 H5</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H3 C9 C7</cards>
+   <action player="YourNansBox" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+   <action player="YourNansBox" sum="0" type="4" no="9"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">S6</cards>
+   <action player="YourNansBox" sum="0" type="4" no="11"/>
+   <action player="PagaYTeCojo1" sum="60" type="5" no="12"/>
+   <action player="YourNansBox" sum="0" type="0" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236228522">
+  <general>
+   <startdate>2025-01-29 15:15:48</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="250" dealer="1" seat="3" chips="595" reg_code="" bet="205" name="YourNansBox"/>
+    <player win="0" dealer="0" seat="6" chips="905" reg_code="8271502073" bet="125" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="YourNansBox" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="YourNansBox" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="YourNansBox" type="Pocket">X X</cards>
+   <action player="YourNansBox" sum="80" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DQ H10</cards>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK D2 D8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="YourNansBox" sum="40" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="10"/>
+   <action player="YourNansBox" sum="0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">DA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+   <action player="YourNansBox" sum="80" type="5" no="13"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236228681">
+  <general>
+   <startdate>2025-01-29 15:16:42</startdate>
+   <smallblind>30</smallblind>
+   <bigblind>60</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="720" reg_code="" bet="720" name="YourNansBox"/>
+    <player win="1,440" dealer="1" seat="6" chips="780" reg_code="8271502073" bet="720" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="YourNansBox" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="30" type="1" no="3"/>
+   <action player="YourNansBox" sum="60" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D5 C4</cards>
+   <action player="PagaYTeCojo1" sum="30" type="3" no="5"/>
+   <cards player="YourNansBox" type="Pocket">D8 H7</cards>
+   <action player="YourNansBox" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 S7 H5</cards>
+   <action player="YourNansBox" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="60" type="5" no="8"/>
+   <action player="YourNansBox" sum="655" type="23" no="9"/>
+   <action player="PagaYTeCojo1" sum="595" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D4</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+  </round>
+ </game>
+</session>

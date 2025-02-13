@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271595224">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114126529</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:02:13</duration>
+  <gamecount>8</gamecount>
+  <startdate>2025-01-29 17:11:28</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>580</bets>
+  <wins>40</wins>
+  <chipsin>520</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114126528</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€30</rewarddrawn>
+  <place>3</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236425383">
+  <general>
+   <startdate>2025-01-29 17:11:28</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="40" dealer="0" seat="3" chips="500" reg_code="8271595224" bet="60" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="500" reg_code="" bet="0" name="KH0RN"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Timaozanho" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <action player="KH0RN" sum="0" type="0" no="3"/>
+   <cards player="Timaozanho" type="Pocket">X X</cards>
+   <action player="Timaozanho" sum="10" type="3" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">DK CJ</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="5"/>
+   <action player="Timaozanho" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236425450">
+  <general>
+   <startdate>2025-01-29 17:11:46</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="520" reg_code="8271595224" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="20" name="KH0RN"/>
+    <player win="50" dealer="1" seat="10" chips="480" reg_code="" bet="40" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="KH0RN" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Timaozanho" type="Pocket">X X</cards>
+   <action player="Timaozanho" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S5 D10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <action player="KH0RN" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236425477">
+  <general>
+   <startdate>2025-01-29 17:11:54</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="510" reg_code="8271595224" bet="0" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="6" chips="480" reg_code="" bet="480" name="KH0RN"/>
+    <player win="0" dealer="0" seat="10" chips="510" reg_code="" bet="20" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KH0RN" sum="10" type="1" no="1"/>
+   <action player="Timaozanho" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S2 HJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <action player="KH0RN" sum="480" type="23" no="4"/>
+   <cards player="Timaozanho" type="Pocket">X X</cards>
+   <action player="Timaozanho" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236425545">
+  <general>
+   <startdate>2025-01-29 17:12:11</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="510" reg_code="8271595224" bet="20" name="PagaYTeCojo1"/>
+    <player win="50" dealer="1" seat="6" chips="500" reg_code="" bet="40" name="KH0RN"/>
+    <player win="0" dealer="0" seat="10" chips="490" reg_code="" bet="10" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Timaozanho" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <action player="KH0RN" sum="40" type="23" no="3"/>
+   <cards player="Timaozanho" type="Pocket">X X</cards>
+   <action player="Timaozanho" sum="0" type="0" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S4 H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236425581">
+  <general>
+   <startdate>2025-01-29 17:12:21</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="490" reg_code="8271595224" bet="10" name="PagaYTeCojo1"/>
+    <player win="20" dealer="0" seat="6" chips="530" reg_code="" bet="20" name="KH0RN"/>
+    <player win="0" dealer="1" seat="10" chips="480" reg_code="" bet="0" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="KH0RN" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <cards player="Timaozanho" type="Pocket">X X</cards>
+   <action player="Timaozanho" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C7 C4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+  </round>
+ </game>
+ <game gamecode="11236425606">
+  <general>
+   <startdate>2025-01-29 17:12:30</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="480" reg_code="8271595224" bet="0" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="6" chips="540" reg_code="" bet="40" name="KH0RN"/>
+    <player win="0" dealer="0" seat="10" chips="480" reg_code="" bet="20" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="KH0RN" sum="10" type="1" no="1"/>
+   <action player="Timaozanho" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SJ S3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <action player="KH0RN" sum="40" type="23" no="4"/>
+   <cards player="Timaozanho" type="Pocket">X X</cards>
+   <action player="Timaozanho" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236425680">
+  <general>
+   <startdate>2025-01-29 17:12:50</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="480" reg_code="8271595224" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="560" reg_code="" bet="460" name="KH0RN"/>
+    <player win="940" dealer="0" seat="10" chips="460" reg_code="" bet="460" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Timaozanho" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="KH0RN" type="Pocket">CA DQ</cards>
+   <action player="KH0RN" sum="40" type="23" no="3"/>
+   <cards player="Timaozanho" type="Pocket">SA S9</cards>
+   <action player="Timaozanho" sum="460" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HK D6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="5"/>
+   <action player="KH0RN" sum="420" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 S3 D2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S5</cards>
+  </round>
+  <round no="4">
+   <cards type="River">HA</cards>
+  </round>
+ </game>
+ <game gamecode="11236425796">
+  <general>
+   <startdate>2025-01-29 17:13:19</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="460" reg_code="8271595224" bet="460" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="100" reg_code="" bet="20" name="KH0RN"/>
+    <player win="940" dealer="1" seat="10" chips="940" reg_code="" bet="460" name="Timaozanho"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="KH0RN" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Timaozanho" type="Pocket">SA HA</cards>
+   <action player="Timaozanho" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CA C8</cards>
+   <action player="PagaYTeCojo1" sum="460" type="23" no="4"/>
+   <cards player="KH0RN" type="Pocket">X X</cards>
+   <action player="KH0RN" sum="0" type="0" no="5"/>
+   <action player="Timaozanho" sum="420" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H3 C7</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S9</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+</session>

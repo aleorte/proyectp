@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271509919">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114117589</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:05:39</duration>
+  <gamecount>17</gamecount>
+  <startdate>2025-01-29 15:22:51</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>2,305</bets>
+  <wins>2,805</wins>
+  <chipsin>500</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114117588</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€50</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€50</win>
+ </general>
+ <game gamecode="11236235829">
+  <general>
+   <startdate>2025-01-29 15:22:51</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="8271509919" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="70" name="Isi1985"/>
+    <player win="140" dealer="0" seat="10" chips="500" reg_code="" bet="130" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="10" type="1" no="1"/>
+   <action player="CourageCall" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">CK H4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="10" type="3" no="4"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="70" type="23" no="5"/>
+   <action player="Isi1985" sum="50" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 SK S6</cards>
+   <action player="Isi1985" sum="0" type="4" no="7"/>
+   <action player="CourageCall" sum="60" type="5" no="8"/>
+   <action player="Isi1985" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236235875">
+  <general>
+   <startdate>2025-01-29 15:23:12</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="8271509919" bet="100" name="PagaYTeCojo1"/>
+    <player win="300" dealer="1" seat="6" chips="430" reg_code="" bet="250" name="Isi1985"/>
+    <player win="0" dealer="0" seat="10" chips="570" reg_code="" bet="100" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CourageCall" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="20" type="3" no="3"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="70" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">HK H10</cards>
+   <action player="PagaYTeCojo1" sum="50" type="3" no="5"/>
+   <action player="Isi1985" sum="50" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">DA H5 S2</cards>
+   <action player="CourageCall" sum="30" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="3" no="8"/>
+   <action player="Isi1985" sum="30" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H9</cards>
+   <action player="CourageCall" sum="0" type="4" no="10"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+   <action player="Isi1985" sum="150" type="5" no="12"/>
+   <action player="CourageCall" sum="0" type="0" no="13"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236235972">
+  <general>
+   <startdate>2025-01-29 15:23:49</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="400" reg_code="8271509919" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="630" reg_code="" bet="20" name="Isi1985"/>
+    <player win="50" dealer="1" seat="10" chips="470" reg_code="" bet="40" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Isi1985" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S4 DK</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236235993">
+  <general>
+   <startdate>2025-01-29 15:23:59</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="390" reg_code="8271509919" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="610" reg_code="" bet="40" name="Isi1985"/>
+    <player win="80" dealer="0" seat="10" chips="500" reg_code="" bet="70" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="10" type="1" no="1"/>
+   <action player="CourageCall" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 H5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="10" type="3" no="4"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S4 C3 H2</cards>
+   <action player="Isi1985" sum="20" type="5" no="6"/>
+   <action player="CourageCall" sum="50" type="23" no="7"/>
+   <action player="Isi1985" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236247549">
+  <general>
+   <startdate>2025-01-29 15:24:20</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="800" dealer="0" seat="3" chips="390" reg_code="8271509919" bet="390" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="570" reg_code="" bet="20" name="Isi1985"/>
+    <player win="0" dealer="0" seat="10" chips="540" reg_code="" bet="390" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CourageCall" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="20" type="3" no="3"/>
+   <cards player="CourageCall" type="Pocket">HQ HK</cards>
+   <action player="CourageCall" sum="70" type="23" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SA CQ</cards>
+   <action player="PagaYTeCojo1" sum="390" type="23" no="5"/>
+   <action player="Isi1985" sum="0" type="0" no="6"/>
+   <action player="CourageCall" sum="320" type="3" no="7"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 DQ C2</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+  </round>
+  <round no="4">
+   <cards type="River">S2</cards>
+  </round>
+ </game>
+ <game gamecode="11236247623">
+  <general>
+   <startdate>2025-01-29 15:24:46</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="240" dealer="0" seat="3" chips="800" reg_code="8271509919" bet="240" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="550" reg_code="" bet="120" name="Isi1985"/>
+    <player win="0" dealer="1" seat="10" chips="150" reg_code="" bet="0" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="Isi1985" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D10 DA</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="4"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S10 CJ HQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+   <action player="Isi1985" sum="80" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="80" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="Isi1985" sum="0" type="4" no="10"/>
+  </round>
+  <round no="4">
+   <cards type="River">C3</cards>
+   <action player="PagaYTeCojo1" sum="120" type="5" no="11"/>
+   <action player="Isi1985" sum="0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236247713">
+  <general>
+   <startdate>2025-01-29 15:25:17</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="920" reg_code="8271509919" bet="5" name="PagaYTeCojo1"/>
+    <player win="75" dealer="0" seat="6" chips="430" reg_code="" bet="65" name="Isi1985"/>
+    <player win="0" dealer="0" seat="10" chips="150" reg_code="" bet="35" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="5" type="15" no="1"/>
+   <action player="CourageCall" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Isi1985" sum="15" type="1" no="4"/>
+   <action player="CourageCall" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H3 C5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="15" type="3" no="7"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="4" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HK CK D2</cards>
+   <action player="Isi1985" sum="30" type="5" no="9"/>
+   <action player="CourageCall" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236247773">
+  <general>
+   <startdate>2025-01-29 15:25:35</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="45" dealer="0" seat="3" chips="915" reg_code="8271509919" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="470" reg_code="" bet="5" name="Isi1985"/>
+    <player win="0" dealer="0" seat="10" chips="115" reg_code="" bet="20" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="CourageCall" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Isi1985" sum="5" type="15" no="3"/>
+   <action player="CourageCall" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H8 DK</cards>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="0" type="0" no="6"/>
+   <cards player="CourageCall" type="Pocket">X X</cards>
+   <action player="CourageCall" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236247798">
+  <general>
+   <startdate>2025-01-29 15:25:45</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="940" reg_code="8271509919" bet="20" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="465" reg_code="" bet="95" name="Isi1985"/>
+    <player win="210" dealer="1" seat="10" chips="95" reg_code="" bet="90" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Isi1985" sum="5" type="15" no="2"/>
+   <action player="CourageCall" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="Isi1985" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="CourageCall" type="Pocket">C9 S8</cards>
+   <action player="CourageCall" sum="90" type="23" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 S3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+   <cards player="Isi1985" type="Pocket">H4 S9</cards>
+   <action player="Isi1985" sum="60" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D5 DQ H8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+  </round>
+ </game>
+ <game gamecode="11236247860">
+  <general>
+   <startdate>2025-01-29 15:26:05</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="920" reg_code="8271509919" bet="5" name="PagaYTeCojo1"/>
+    <player win="425" dealer="0" seat="6" chips="370" reg_code="" bet="365" name="Isi1985"/>
+    <player win="0" dealer="0" seat="10" chips="210" reg_code="" bet="210" name="CourageCall"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="5" type="15" no="1"/>
+   <action player="CourageCall" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="3"/>
+   <action player="Isi1985" sum="15" type="1" no="4"/>
+   <action player="CourageCall" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">DK S4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+   <cards player="Isi1985" type="Pocket">CA S7</cards>
+   <action player="Isi1985" sum="365" type="23" no="7"/>
+   <cards player="CourageCall" type="Pocket">HK H4</cards>
+   <action player="CourageCall" sum="175" type="7" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 H8 C8</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">H7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SQ</cards>
+  </round>
+ </game>
+ <game gamecode="11236247929">
+  <general>
+   <startdate>2025-01-29 15:26:30</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="915" reg_code="8271509919" bet="35" name="PagaYTeCojo1"/>
+    <player win="70" dealer="1" seat="6" chips="585" reg_code="" bet="105" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Isi1985" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H8 C5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA CK S3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="Isi1985" sum="70" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236247973">
+  <general>
+   <startdate>2025-01-29 15:26:44</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="880" reg_code="8271509919" bet="105" name="PagaYTeCojo1"/>
+    <player win="210" dealer="0" seat="6" chips="620" reg_code="" bet="315" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Isi1985" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Isi1985" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H8 D7</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S7 H6 S10</cards>
+   <action player="Isi1985" sum="70" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="70" type="3" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C6</cards>
+   <action player="Isi1985" sum="210" type="5" no="9"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236248027">
+  <general>
+   <startdate>2025-01-29 15:27:01</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="775" reg_code="8271509919" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="6" chips="725" reg_code="" bet="135" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Isi1985" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="20" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S3 C6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C8 HA D2</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="Isi1985" sum="90" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236248068">
+  <general>
+   <startdate>2025-01-29 15:27:16</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="730" dealer="1" seat="3" chips="730" reg_code="8271509919" bet="730" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="770" reg_code="" bet="365" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Isi1985" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Isi1985" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H10 C3</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S9 S7 S4</cards>
+   <action player="Isi1985" sum="90" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="200" type="23" no="8"/>
+   <action player="Isi1985" sum="110" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">HA</cards>
+   <action player="Isi1985" sum="0" type="4" no="10"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">DK</cards>
+   <action player="Isi1985" sum="120" type="5" no="12"/>
+   <action player="PagaYTeCojo1" sum="485" type="23" no="13"/>
+   <action player="Isi1985" sum="0" type="0" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236248174">
+  <general>
+   <startdate>2025-01-29 15:27:51</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="1,095" reg_code="8271509919" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="6" chips="405" reg_code="" bet="400" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Isi1985" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="400" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H6 H3</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236248213">
+  <general>
+   <startdate>2025-01-29 15:28:03</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="1,050" reg_code="8271509919" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="0" seat="6" chips="450" reg_code="" bet="450" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Isi1985" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Isi1985" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">H8 S7</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="Isi1985" type="Pocket">X X</cards>
+   <action player="Isi1985" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H5 DA S2</cards>
+   <action player="Isi1985" sum="405" type="5" no="7"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236248249">
+  <general>
+   <startdate>2025-01-29 15:28:17</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="990" dealer="0" seat="3" chips="1,005" reg_code="8271509919" bet="495" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="495" reg_code="" bet="490" name="Isi1985"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Isi1985" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Isi1985" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Isi1985" type="Pocket">SA D8</cards>
+   <action player="Isi1985" sum="490" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CQ CK</cards>
+   <action player="PagaYTeCojo1" sum="450" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C4 D5 HK</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">CA</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C6</cards>
+  </round>
+ </game>
+</session>

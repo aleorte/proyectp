@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271526002">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114119379</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:03:59</duration>
+  <gamecount>6</gamecount>
+  <startdate>2025-01-29 15:48:50</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>1,100</bets>
+  <wins>2,070</wins>
+  <chipsin>640</chipsin>
+  <chipsout>1,500</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114119378</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€30</rewarddrawn>
+  <place>1</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€30</win>
+ </general>
+ <game gamecode="11236287883">
+  <general>
+   <startdate>2025-01-29 15:48:50</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="500" reg_code="" bet="120" name="pilotfree5355"/>
+    <player win="260" dealer="0" seat="6" chips="500" reg_code="8271526002" bet="120" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="500" reg_code="" bet="20" name="lightpoker689"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="lightpoker689" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="pilotfree5355" type="Pocket">C4 DK</cards>
+   <action player="pilotfree5355" sum="20" type="3" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D4 HA</cards>
+   <action player="PagaYTeCojo1" sum="60" type="23" no="4"/>
+   <cards player="lightpoker689" type="Pocket">X X</cards>
+   <action player="lightpoker689" sum="0" type="0" no="5"/>
+   <action player="pilotfree5355" sum="40" type="3" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H6 S2 H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="pilotfree5355" sum="0" type="4" no="8"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="9"/>
+   <action player="pilotfree5355" sum="60" type="5" no="10"/>
+   <action player="PagaYTeCojo1" sum="60" type="3" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">S10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+   <action player="pilotfree5355" sum="0" type="4" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236288090">
+  <general>
+   <startdate>2025-01-29 15:49:56</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="380" reg_code="" bet="40" name="pilotfree5355"/>
+    <player win="120" dealer="1" seat="6" chips="640" reg_code="8271526002" bet="70" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="480" reg_code="" bet="40" name="lightpoker689"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="lightpoker689" sum="10" type="1" no="1"/>
+   <action player="pilotfree5355" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D9 D10</cards>
+   <action player="PagaYTeCojo1" sum="40" type="23" no="3"/>
+   <cards player="lightpoker689" type="Pocket">X X</cards>
+   <action player="lightpoker689" sum="30" type="3" no="4"/>
+   <cards player="pilotfree5355" type="Pocket">X X</cards>
+   <action player="pilotfree5355" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C3 S9 D3</cards>
+   <action player="lightpoker689" sum="0" type="4" no="6"/>
+   <action player="pilotfree5355" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="lightpoker689" sum="0" type="0" no="9"/>
+   <action player="pilotfree5355" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236288252">
+  <general>
+   <startdate>2025-01-29 15:50:51</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="165" dealer="0" seat="3" chips="340" reg_code="" bet="155" name="pilotfree5355"/>
+    <player win="0" dealer="0" seat="6" chips="720" reg_code="8271526002" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="440" reg_code="" bet="65" name="lightpoker689"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="pilotfree5355" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="lightpoker689" sum="5" type="15" no="3"/>
+   <action player="pilotfree5355" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="lightpoker689" type="Pocket">X X</cards>
+   <action player="lightpoker689" sum="60" type="23" no="6"/>
+   <cards player="pilotfree5355" type="Pocket">X X</cards>
+   <action player="pilotfree5355" sum="45" type="3" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">S7 D5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SQ HK S2</cards>
+   <action player="pilotfree5355" sum="0" type="4" no="9"/>
+   <action player="lightpoker689" sum="0" type="4" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">D7</cards>
+   <action player="pilotfree5355" sum="90" type="5" no="11"/>
+   <action player="lightpoker689" sum="0" type="0" no="12"/>
+  </round>
+ </game>
+ <game gamecode="11236288338">
+  <general>
+   <startdate>2025-01-29 15:51:18</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="440" reg_code="" bet="95" name="pilotfree5355"/>
+    <player win="845" dealer="0" seat="6" chips="685" reg_code="8271526002" bet="375" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="375" reg_code="" bet="375" name="lightpoker689"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="lightpoker689" sum="5" type="15" no="2"/>
+   <action player="pilotfree5355" sum="5" type="15" no="3"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="4"/>
+   <action player="lightpoker689" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="pilotfree5355" type="Pocket">X X</cards>
+   <action player="pilotfree5355" sum="30" type="3" no="6"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D7 DA</cards>
+   <action player="PagaYTeCojo1" sum="90" type="23" no="7"/>
+   <cards player="lightpoker689" type="Pocket">D10 SJ</cards>
+   <action player="lightpoker689" sum="60" type="3" no="8"/>
+   <action player="pilotfree5355" sum="60" type="3" no="9"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">C2 DK DQ</cards>
+   <action player="PagaYTeCojo1" sum="75" type="5" no="10"/>
+   <action player="lightpoker689" sum="280" type="23" no="11"/>
+   <action player="pilotfree5355" sum="0" type="0" no="12"/>
+   <action player="PagaYTeCojo1" sum="205" type="3" no="13"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">S3</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SK</cards>
+  </round>
+ </game>
+ <game gamecode="11236288424">
+  <general>
+   <startdate>2025-01-29 15:51:49</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="155" dealer="0" seat="3" chips="345" reg_code="" bet="155" name="pilotfree5355"/>
+    <player win="155" dealer="1" seat="6" chips="1,155" reg_code="8271526002" bet="155" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="pilotfree5355" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="pilotfree5355" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D3 SK</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="pilotfree5355" type="Pocket">HK S7</cards>
+   <action player="pilotfree5355" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SA C10 S10</cards>
+   <action player="pilotfree5355" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="pilotfree5355" sum="30" type="3" no="9"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H6</cards>
+   <action player="pilotfree5355" sum="0" type="4" no="10"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="11"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action player="pilotfree5355" sum="90" type="5" no="12"/>
+   <action player="PagaYTeCojo1" sum="90" type="3" no="13"/>
+  </round>
+ </game>
+ <game gamecode="11236288539">
+  <general>
+   <startdate>2025-01-29 15:52:30</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="345" reg_code="" bet="340" name="pilotfree5355"/>
+    <player win="690" dealer="0" seat="6" chips="1,155" reg_code="8271526002" bet="345" name="PagaYTeCojo1"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="pilotfree5355" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="pilotfree5355" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="pilotfree5355" type="Pocket">D3 H3</cards>
+   <action player="pilotfree5355" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CA CJ</cards>
+   <action player="PagaYTeCojo1" sum="90" type="23" no="6"/>
+   <action player="pilotfree5355" sum="340" type="23" no="7"/>
+   <action player="PagaYTeCojo1" sum="250" type="3" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H2 S7 SJ</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+  </round>
+  <round no="4">
+   <cards type="River">H9</cards>
+  </round>
+ </game>
+</session>

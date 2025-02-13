@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="8271517187">
+ <general>
+  <client_version>24.7.1.16</client_version>
+  <mode>real</mode>
+  <gametype>Holdem NL</gametype>
+  <tablename>Twister €10 SNG, 1114118389</tablename>
+  <tournamentcurrency>EUR</tournamentcurrency>
+  <duration>00:05:37</duration>
+  <gamecount>13</gamecount>
+  <startdate>2025-01-29 15:34:28</startdate>
+  <currency>EUR</currency>
+  <nickname>PagaYTeCojo1</nickname>
+  <bets>725</bets>
+  <wins>140</wins>
+  <chipsin>490</chipsin>
+  <chipsout>0</chipsout>
+  <statuspoints>RP7</statuspoints>
+  <awardpoints>RP21</awardpoints>
+  <ipoints>RP7</ipoints>
+  <tablesize>3</tablesize>
+  <tournamentcode>1114118388</tournamentcode>
+  <tournamentname>Twister €10 SNG</tournamentname>
+  <rewarddrawn>€50</rewarddrawn>
+  <place>2</place>
+  <buyin>€0 + €0.70 + €9.30</buyin>
+  <totalbuyin>€10</totalbuyin>
+  <win>€0</win>
+ </general>
+ <game gamecode="11236260597">
+  <general>
+   <startdate>2025-01-29 15:34:28</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="500" reg_code="8271517187" bet="10" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="500" reg_code="" bet="40" name="takenochances"/>
+    <player win="90" dealer="1" seat="10" chips="500" reg_code="" bet="130" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="takenochances" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D2 S6</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="takenochances" type="Pocket">X X</cards>
+   <action player="takenochances" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ D8 DJ</cards>
+   <action player="takenochances" sum="0" type="4" no="6"/>
+   <action player="Evilstorm" sum="90" type="5" no="7"/>
+   <action player="takenochances" sum="0" type="0" no="8"/>
+  </round>
+ </game>
+ <game gamecode="11236260653">
+  <general>
+   <startdate>2025-01-29 15:34:51</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="490" reg_code="8271517187" bet="0" name="PagaYTeCojo1"/>
+    <player win="40" dealer="0" seat="6" chips="460" reg_code="" bet="80" name="takenochances"/>
+    <player win="0" dealer="0" seat="10" chips="550" reg_code="" bet="20" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="takenochances" sum="10" type="1" no="1"/>
+   <action player="Evilstorm" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C7 C4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="takenochances" type="Pocket">X X</cards>
+   <action player="takenochances" sum="80" type="23" no="4"/>
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="0" type="0" no="5"/>
+  </round>
+ </game>
+ <game gamecode="11236260699">
+  <general>
+   <startdate>2025-01-29 15:35:09</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="490" reg_code="8271517187" bet="20" name="PagaYTeCojo1"/>
+    <player win="60" dealer="1" seat="6" chips="480" reg_code="" bet="80" name="takenochances"/>
+    <player win="0" dealer="0" seat="10" chips="530" reg_code="" bet="20" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Evilstorm" sum="10" type="1" no="1"/>
+   <action player="PagaYTeCojo1" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="takenochances" type="Pocket">X X</cards>
+   <action player="takenochances" sum="20" type="3" no="3"/>
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="10" type="3" no="4"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CJ H8</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D4 H5 S2</cards>
+   <action player="Evilstorm" sum="0" type="4" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="takenochances" sum="60" type="5" no="8"/>
+   <action player="Evilstorm" sum="0" type="0" no="9"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="10"/>
+  </round>
+ </game>
+ <game gamecode="11236260759">
+  <general>
+   <startdate>2025-01-29 15:35:34</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="470" reg_code="8271517187" bet="10" name="PagaYTeCojo1"/>
+    <player win="90" dealer="0" seat="6" chips="520" reg_code="" bet="103" name="takenochances"/>
+    <player win="0" dealer="1" seat="10" chips="510" reg_code="" bet="40" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="10" type="1" no="1"/>
+   <action player="takenochances" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="40" type="23" no="3"/>
+   <cards player="PagaYTeCojo1" type="Pocket">C6 CQ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="4"/>
+   <cards player="takenochances" type="Pocket">X X</cards>
+   <action player="takenochances" sum="20" type="3" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H7 S5 S6</cards>
+   <action player="takenochances" sum="0" type="4" no="6"/>
+   <action player="Evilstorm" sum="0" type="4" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">H5</cards>
+   <action player="takenochances" sum="63" type="5" no="8"/>
+   <action player="Evilstorm" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236260839">
+  <general>
+   <startdate>2025-01-29 15:36:09</startdate>
+   <smallblind>10</smallblind>
+   <bigblind>20</bigblind>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="460" reg_code="8271517187" bet="0" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="6" chips="570" reg_code="" bet="160" name="takenochances"/>
+    <player win="320" dealer="0" seat="10" chips="470" reg_code="" bet="160" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="takenochances" sum="10" type="1" no="1"/>
+   <action player="Evilstorm" sum="20" type="2" no="2"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">C10 C5</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="3"/>
+   <cards player="takenochances" type="Pocket">CQ H6</cards>
+   <action player="takenochances" sum="10" type="3" no="4"/>
+   <cards player="Evilstorm" type="Pocket">CA C3</cards>
+   <action player="Evilstorm" sum="0" type="4" no="5"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HA HQ H5</cards>
+   <action player="takenochances" sum="20" type="5" no="6"/>
+   <action player="Evilstorm" sum="20" type="3" no="7"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">SJ</cards>
+   <action player="takenochances" sum="40" type="5" no="8"/>
+   <action player="Evilstorm" sum="40" type="3" no="9"/>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+   <action player="takenochances" sum="80" type="5" no="10"/>
+   <action player="Evilstorm" sum="80" type="3" no="11"/>
+  </round>
+ </game>
+ <game gamecode="11236260973">
+  <general>
+   <startdate>2025-01-29 15:36:59</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="460" reg_code="8271517187" bet="35" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="6" chips="410" reg_code="" bet="405" name="takenochances"/>
+    <player win="855" dealer="0" seat="10" chips="630" reg_code="" bet="630" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Evilstorm" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="takenochances" sum="5" type="15" no="3"/>
+   <action player="Evilstorm" sum="15" type="1" no="4"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="5"/>
+  </round>
+  <round no="1">
+   <cards player="takenochances" type="Pocket">HQ SQ</cards>
+   <action player="takenochances" sum="405" type="23" no="6"/>
+   <cards player="Evilstorm" type="Pocket">D10 CA</cards>
+   <action player="Evilstorm" sum="610" type="7" no="7"/>
+   <cards player="PagaYTeCojo1" type="Pocket">D4 HJ</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="8"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">S2 H6 H10</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">C7</cards>
+  </round>
+  <round no="4">
+   <cards type="River">SA</cards>
+  </round>
+ </game>
+ <game gamecode="11236261050">
+  <general>
+   <startdate>2025-01-29 15:37:29</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="425" reg_code="8271517187" bet="35" name="PagaYTeCojo1"/>
+    <player win="70" dealer="1" seat="10" chips="1,075" reg_code="" bet="65" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Evilstorm" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Evilstorm" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H6 S10</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">SJ HK C4</cards>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="7"/>
+   <action player="Evilstorm" sum="30" type="5" no="8"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236261100">
+  <general>
+   <startdate>2025-01-29 15:37:48</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="390" reg_code="8271517187" bet="35" name="PagaYTeCojo1"/>
+    <player win="70" dealer="0" seat="10" chips="1,110" reg_code="" bet="90" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Evilstorm" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Evilstorm" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">S2 DQ</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="90" type="23" no="6"/>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236261126">
+  <general>
+   <startdate>2025-01-29 15:37:58</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="0" seat="3" chips="355" reg_code="8271517187" bet="90" name="PagaYTeCojo1"/>
+    <player win="0" dealer="1" seat="10" chips="1,145" reg_code="" bet="35" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Evilstorm" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Evilstorm" sum="15" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="15" type="3" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">H9 SK</cards>
+   <action player="PagaYTeCojo1" sum="90" type="23" no="6"/>
+   <action player="Evilstorm" sum="0" type="0" no="7"/>
+  </round>
+ </game>
+ <game gamecode="11236261156">
+  <general>
+   <startdate>2025-01-29 15:38:12</startdate>
+   <smallblind>15</smallblind>
+   <bigblind>30</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="70" dealer="1" seat="3" chips="390" reg_code="8271517187" bet="65" name="PagaYTeCojo1"/>
+    <player win="0" dealer="0" seat="10" chips="1,110" reg_code="" bet="35" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Evilstorm" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="15" type="1" no="3"/>
+   <action player="Evilstorm" sum="30" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">SJ C8</cards>
+   <action player="PagaYTeCojo1" sum="15" type="3" no="5"/>
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">H8 D3 DA</cards>
+   <action player="Evilstorm" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="30" type="5" no="8"/>
+   <action player="Evilstorm" sum="0" type="0" no="9"/>
+  </round>
+ </game>
+ <game gamecode="11236261211">
+  <general>
+   <startdate>2025-01-29 15:38:37</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="425" reg_code="8271517187" bet="45" name="PagaYTeCojo1"/>
+    <player win="90" dealer="1" seat="10" chips="1,075" reg_code="" bet="1,070" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Evilstorm" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Evilstorm" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Evilstorm" type="Pocket">X X</cards>
+   <action player="Evilstorm" sum="1,070" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">CJ C7</cards>
+   <action player="PagaYTeCojo1" sum="0" type="0" no="6"/>
+  </round>
+ </game>
+ <game gamecode="11236261240">
+  <general>
+   <startdate>2025-01-29 15:38:50</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="1" seat="3" chips="380" reg_code="8271517187" bet="187" name="PagaYTeCojo1"/>
+    <player win="374" dealer="0" seat="10" chips="1,120" reg_code="" bet="187" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="PagaYTeCojo1" sum="5" type="15" no="1"/>
+   <action player="Evilstorm" sum="5" type="15" no="2"/>
+   <action player="PagaYTeCojo1" sum="20" type="1" no="3"/>
+   <action player="Evilstorm" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="PagaYTeCojo1" type="Pocket">D8 S8</cards>
+   <action player="PagaYTeCojo1" sum="20" type="3" no="5"/>
+   <cards player="Evilstorm" type="Pocket">H9 H5</cards>
+   <action player="Evilstorm" sum="0" type="4" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">HQ S4 D2</cards>
+   <action player="Evilstorm" sum="0" type="4" no="7"/>
+   <action player="PagaYTeCojo1" sum="40" type="5" no="8"/>
+   <action player="Evilstorm" sum="80" type="23" no="9"/>
+   <action player="PagaYTeCojo1" sum="40" type="3" no="10"/>
+  </round>
+  <round no="3">
+   <cards type="Turn">C10</cards>
+   <action player="Evilstorm" sum="0" type="4" no="11"/>
+   <action player="PagaYTeCojo1" sum="0" type="4" no="12"/>
+  </round>
+  <round no="4">
+   <cards type="River">D9</cards>
+   <action player="Evilstorm" sum="62" type="5" no="13"/>
+   <action player="PagaYTeCojo1" sum="62" type="3" no="14"/>
+  </round>
+ </game>
+ <game gamecode="11236261382">
+  <general>
+   <startdate>2025-01-29 15:39:52</startdate>
+   <smallblind>20</smallblind>
+   <bigblind>40</bigblind>
+   <ante>5</ante>
+   <players>
+    <player win="0" dealer="0" seat="3" chips="193" reg_code="8271517187" bet="193" name="PagaYTeCojo1"/>
+    <player win="386" dealer="1" seat="10" chips="1,307" reg_code="" bet="1,302" name="Evilstorm"/>
+   </players>
+  </general>
+  <round no="0">
+   <action player="Evilstorm" sum="5" type="15" no="1"/>
+   <action player="PagaYTeCojo1" sum="5" type="15" no="2"/>
+   <action player="Evilstorm" sum="20" type="1" no="3"/>
+   <action player="PagaYTeCojo1" sum="40" type="2" no="4"/>
+  </round>
+  <round no="1">
+   <cards player="Evilstorm" type="Pocket">H9 H10</cards>
+   <action player="Evilstorm" sum="1,302" type="23" no="5"/>
+   <cards player="PagaYTeCojo1" type="Pocket">SQ S7</cards>
+   <action player="PagaYTeCojo1" sum="148" type="7" no="6"/>
+  </round>
+  <round no="2">
+   <cards type="Flop">D3 C7 C6</cards>
+  </round>
+  <round no="3">
+   <cards type="Turn">S8</cards>
+  </round>
+  <round no="4">
+   <cards type="River">C9</cards>
+  </round>
+ </game>
+</session>
