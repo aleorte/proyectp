@@ -48,11 +48,7 @@ def main():
         # Display hands for the selected tournament
         if selected_tournament_index is not None:
             selected_tournament = filtered_tournaments[selected_tournament_index]
-            st.write(f"#### Tournament: {selected_tournament['tournamentname']}")
-            st.write(f"Start Date: {selected_tournament['startdate']}")
-            st.write(f"Buy-in: {selected_tournament['buyin']}")
             st.write(f"Total Buy-in: {selected_tournament['totalbuyin']}")
-            st.write(f"Win: {selected_tournament['win']}")
 
             # Filter hands for the selected tournament using tournamentcode
             tournament_hands = [
